@@ -25,8 +25,17 @@ int main(int argc, char* argv[]) {
     }
 
     i = 0;
+    int j = 1;
+
     while (inputData[i] != '\0') {
+        if (i == 0) {
+            printf("%d:", j++);
+        }
         printf("%c", inputData[i]);
+        // 行数を表示する
+        if (inputData[i] == '\n') {
+            printf("%d:", j++);
+        }
         i++;
     }
 
