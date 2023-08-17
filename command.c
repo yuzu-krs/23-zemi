@@ -1,8 +1,14 @@
 #include <ctype.h>
 #include <stdio.h>
 #include <stdlib.h>
+int isAlphabetNum(int c) {
+    return (c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z') ||
+           (c >= '0' && c <= '9');
+}
 
 int main(int argc, char* argv[]) {
+    char inputWord[1024];
+
     if (argc != 2) {
         fprintf(stderr, "使い方: %s <入力ファイル名> \n", argv[0]);
         exit(1);
@@ -16,30 +22,25 @@ int main(int argc, char* argv[]) {
     }
 
     int c;
-    char inputData[1024];
     int i = 0;
+    int lineNumber = 1;
     while ((c = fgetc(inputFile)) != EOF) {
+        // 1単語として取り出す．
         // 大文字を小文字に変換する
-        inputData[i] = tolower(c);
-        i++;
-    }
-
-    i = 0;
-    int j = 1;
-
-    while (inputData[i] != '\0') {
-        if (i == 0) {
-            printf("%d:", j++);
+        if (isAlphabetNum(c)) {
+            inputWord[i] = tolower(c);
+            i++;
+        } else if (i != 0) {
+            inputWord[i] = '\0';
+            printf("行番号:%d,inputWord:%s \n", lineNumber, inputWord);
+            i = 0;
         }
-        printf("%c", inputData[i]);
-        // 行数を表示する
-        if (inputData[i] == '\n') {
-            printf("%d:", j++);
+        // 改行があれば，+1
+        if (c == '\n') {
+            lineNumber++;
         }
-        i++;
     }
 
     fclose(inputFile);
-
     return 0;
 }
