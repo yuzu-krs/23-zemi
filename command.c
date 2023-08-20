@@ -35,8 +35,15 @@ int main(int argc, char* argv[]) {
     int lineNumber = 1;
 
     while ((c = fgetc(inputFile)) != EOF) {
-        // 数字以外+Apostrophe+数字以外ならば無視
+        // 数字以外+period+数字以外ならば無視
         if (isPeriod(inputWord[i - 1]) && !(isNum(c)) && i > 1) {
+            inputWord[i - 1] = '\0';
+            printf("行番号:%d,inputWord:%s \n", lineNumber, inputWord);
+            i = 0;
+        }
+
+        // アルファベット+apostrophe+アルファベット
+        if (isApostrophe(inputWord[i - 1]) && !(isAlphabet(c)) && i > 1) {
             inputWord[i - 1] = '\0';
             printf("行番号:%d,inputWord:%s \n", lineNumber, inputWord);
             i = 0;
@@ -44,13 +51,16 @@ int main(int argc, char* argv[]) {
 
         // 1単語として取り出す
         // 大文字を小文字に変換する
-        if (isAlphabetNum(c) || isApostrophe(c) || (i > 0 && isPeriod(c))) {
+        if (isAlphabetNum(c) || isNum(c) || (i > 0 && isPeriod(c)) ||
+            (i > 0 && isApostrophe(c))) {
             inputWord[i] = tolower(c);
             i++;
-        } else if ((i != 0) && !(isPeriod(inputWord[i - 1]))) {
+        } else if ((i != 0) && !(isPeriod(inputWord[i - 1])) &&
+                   !(isApostrophe(inputWord[i - 1]))) {
             inputWord[i] = '\0';
             printf("行番号:%d,inputWord:%s \n", lineNumber, inputWord);
             i = 0;
+
         } else {
             i = 0;
         }
