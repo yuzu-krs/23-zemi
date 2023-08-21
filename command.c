@@ -7,7 +7,7 @@
 // 二分探索木のノードを表す構造体
 typedef struct TreeNode {
     char* word;            // 英単語を格納する文字列
-    int lineNumber[1024];  // 英単語が出現する行番号を格納する配列
+    int lineNumber[2048];  // 英単語が出現する行番号を格納する配列
     struct TreeNode* left;
     struct TreeNode* right;
 } TreeNode;
