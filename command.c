@@ -108,6 +108,7 @@ void printTree(TreeNode* root) {
     // 現在のノードの単語とそれに対応する行番号を表示します．
     printf("%-20s :", root->word);
     int i = 0;
+
     // 現在のrootノードが持つlineNumber配列の要素を走査して出現番号を表示する．行番号の配列は0で終了するため，0に達するまでループを実行する．
     while (root->lineNumber[i] != 0) {
         printf(" %2d ", root->lineNumber[i]);
@@ -117,6 +118,20 @@ void printTree(TreeNode* root) {
     printf("\n");
     // rootノードの右の子ノードを再帰的に表示します．これにより，右の部分木のすべての表示がされる．
     printTree(root->right);
+}
+
+// 単語数を数える
+int countWords(TreeNode* root) {
+    // rootノードがNULL(部分木が存在しない)場合の処理．
+    // 再帰的な終了条件．
+    if (root == NULL) {
+        return 0;
+    }
+    // rootノードがNULLでない場合は，再帰的にカウントする．
+    // 1をカウントし，現在のノードに含まれる単語数を1で初期化
+    // 現在のノード+root->leftに対して再帰的に，countWords関数を読み出し，その結果を左部分木の単語数としてカウントする．
+    // 現在のノード+root->rightに対して再帰的に，countWord関数を読み出し，その結果を右部分木の単語数としてカウントする．
+    return 1 + countWords(root->left) + countWords(root->right);
 }
 
 int isApostrophe(int c) { return (c == '\''); }
@@ -197,6 +212,10 @@ int main(int argc, char* argv[]) {
 
     // printTree関数を使用して，2文探索木の内容を表示します．これにより，中間順トラバーサルしたがってノードが表示され，各単語とその出現行番号が表示される．
     printTree(root);
+
+    // ノード数を計算
+    puts("-------------------------------");
+    printf("%d 個の単語を出力しました\n", countWords(root));
 
     // freeTree関数を使用して，2文探索木のすべてのノードと関連するメモリを解放し，これによりプログラムが終了する際にメモリリークが防止される．
     freeTree(root);
