@@ -27,7 +27,7 @@ TreeNode* createNode(const char* word, int lineNumber) {
     // lineNumber配列の先頭要素に最初の出現番号を格納する．
     newNode->lineNumber[0] = lineNumber;
     // 残りの要素には0を設定して初期化する．
-    for (int i = 1; i < 1024; i++) {
+    for (int i = 1; i < 2048; i++) {
         newNode->lineNumber[i] = 0;
     }
 
@@ -134,6 +134,29 @@ int countWords(TreeNode* root) {
     return 1 + countWords(root->left) + countWords(root->right);
 }
 
+// 単語の探索と行番号を出力
+void searchWord(TreeNode* root, const char* word) {
+    if (root == NULL) {
+        printf("\"%s\" は存在しません\n\n", word);
+        puts("-------------------------------");
+        exit(1);
+    }
+    int cmp = strcmp(word, root->word);
+    if (cmp < 0) {
+        searchWord(root->left, word);
+    } else if (cmp > 0) {
+        searchWord(root->right, word);
+    } else {
+        printf("\"%s\"は以下の行に現れます\n", word);
+        int i = 0;
+        while (root->lineNumber[i] != 0) {
+            printf("    %d", root->lineNumber[i]);
+            i++;
+        }
+        printf("\n");
+    }
+}
+
 int isApostrophe(int c) { return (c == '\''); }
 
 int isPeriod(int c) { return (c == '.'); }
@@ -215,7 +238,21 @@ int main(int argc, char* argv[]) {
 
     // ノード数を計算
     puts("-------------------------------");
-    printf("%d 個の単語を出力しました\n", countWords(root));
+    printf("%d 個の単語を出力しました\n\n", countWords(root));
+
+    char searchInput[2048];  // 検索英単語
+    while (1) {
+        printf("検索単語を入力してください> ");
+        fgets(searchInput, sizeof(searchInput), stdin);
+        // 入力でのEnter(改行文字)を削除
+        int inputLength = strlen(searchInput);
+        if (inputLength > 0 && searchInput[inputLength - 1] == '\n') {
+            searchInput[inputLength - 1] = '\0';
+        }
+
+        // 単語検索と表示
+        searchWord(root, searchInput);
+    }
 
     // freeTree関数を使用して，2文探索木のすべてのノードと関連するメモリを解放し，これによりプログラムが終了する際にメモリリークが防止される．
     freeTree(root);
