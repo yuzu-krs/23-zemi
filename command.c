@@ -157,6 +157,18 @@ void searchWord(TreeNode* root, const char* word) {
     }
 }
 
+// 木の深さを計算する
+int calcDepth(TreeNode* root) {
+    if (root == NULL) {
+        return 0;
+    } else {
+        int leftDepth = calcDepth(root->left);
+        int rightDepth = calcDepth(root->right);
+        // 部分木の深いほうを取得
+        return 1 + (leftDepth > rightDepth ? leftDepth : rightDepth);
+    }
+}
+
 int isApostrophe(int c) { return (c == '\''); }
 
 int isPeriod(int c) { return (c == '.'); }
@@ -238,6 +250,7 @@ int main(int argc, char* argv[]) {
 
     // ノード数を計算
     puts("-------------------------------");
+    printf("2文探索木の深さは %d です\n\n", calcDepth(root));
     printf("%d 個の単語を出力しました\n\n", countWords(root));
 
     char searchInput[2048];  // 検索英単語
