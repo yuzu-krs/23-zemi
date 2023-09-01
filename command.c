@@ -184,9 +184,10 @@ int isAlphabetNum(int c) { return isAlphabet(c) || isNum(c); }
 int main(int argc, char* argv[]) {
     TreeNode* root = NULL;
     char inputWord[1024];
+    char stopWord[1024];
 
-    if (argc != 2) {
-        fprintf(stderr, "使い方: %s <入力ファイル名> \n", argv[0]);
+    if (argc != 3) {
+        fprintf(stderr, "使い方: %s <input.txt> <stopword.txt>\n", argv[0]);
         exit(1);
     }
 
@@ -194,6 +195,12 @@ int main(int argc, char* argv[]) {
     if (inputFile == NULL) {
         fprintf(stderr, "入力ファイル %s を開く際にエラーが発生しました．\n",
                 argv[1]);
+        exit(1);
+    }
+
+    FILE* stopWordFile = fopen(argv[2], "r");
+    if (stopWordFile == NULL) {
+        fprintf(stderr, "%s を開く際にエラーが発生しました．\n", argv[2]);
         exit(1);
     }
 
@@ -248,6 +255,39 @@ int main(int argc, char* argv[]) {
     // printTree関数を使用して，2文探索木の内容を表示します．これにより，中間順トラバーサルしたがってノードが表示され，各単語とその出現行番号が表示される．
     printTree(root);
 
+    /*
+     *
+     *
+     *
+     *
+     */
+
+    // stopwordの試し
+    puts("");
+    i = 0;
+    while ((c = fgetc(stopWordFile)) != EOF) {
+        if (c == '\n') {
+            stopWord[i] = '\0';
+            printf("stopword : %s \n", stopWord);
+            i = 0;
+        } else {
+            stopWord[i] = c;
+            i++;
+        }
+    }
+
+    if (i != 0) {
+        stopWord[i] = '\0';
+        printf("stopword : %s \n", stopWord);
+    }
+
+    /*
+     *
+     *
+     *
+     *
+     */
+
     // ノード数を計算
     puts("-------------------------------");
     printf("2文探索木の深さは %d です\n\n", calcDepth(root));
@@ -271,5 +311,6 @@ int main(int argc, char* argv[]) {
     freeTree(root);
 
     fclose(inputFile);
+    fclose(stopWordFile);
     return 0;
 }
