@@ -157,6 +157,63 @@ void searchWord(TreeNode* root, const char* word) {
     }
 }
 
+// 2文探索木から最小値を持つノードを探す
+TreeNode* findMin(TreeNode* node) {
+    TreeNode* current = node;
+    while (current->left != NULL) {
+        current = current->left;
+    }
+    return current;
+}
+// 単語に基づいてノードを削除する関数（変更可能な左辺値）
+int deleteNodeByWord(TreeNode** root, const char* word) {
+    if (*root == NULL) {
+        // 木が空の場合、何もしない
+        return 0;
+    }
+
+    // 単語と比較
+    int cmp = strcmp(word, (*root)->word);
+
+    if (cmp < 0) {
+        // 左のサブツリーに再帰的に移動
+        return deleteNodeByWord(&((*root)->left), word);
+    } else if (cmp > 0) {
+        // 右のサブツリーに再帰的に移動
+        return deleteNodeByWord(&((*root)->right), word);
+    } else {
+        // 単語が一致するノードを見つけた場合
+        if ((*root)->left == NULL) {
+            // 左の子が存在しない場合、右の子を持ってきてノードを削除
+            TreeNode* temp = *root;
+            *root = (*root)->right;
+            free(temp->word);
+            free(temp);
+        } else if ((*root)->right == NULL) {
+            // 右の子が存在しない場合、左の子を持ってきてノードを削除
+            TreeNode* temp = *root;
+            *root = (*root)->left;
+            free(temp->word);
+            free(temp);
+        } else {
+            // 左右の子が存在する場合、右のサブツリーから最小値のノードを探し、それを削除対象ノードと置き換える
+            TreeNode* minRight = (*root)->right;
+            while (minRight->left != NULL) {
+                minRight = minRight->left;
+            }
+            // 最小値のノードを削除対象ノードにコピー
+            free((*root)->word);
+            (*root)->word = strdup(minRight->word);
+            // 行番号配列をコピー
+            for (int i = 0; i < 2048; i++) {
+                (*root)->lineNumber[i] = minRight->lineNumber[i];
+            }
+            // 最小値のノードを削除
+            deleteNodeByWord(&((*root)->right), minRight->word);
+        }
+        return 1;  // ノードが削除されたことを示す値を返す
+    }
+}
 // 木の深さを計算する
 int calcDepth(TreeNode* root) {
     if (root == NULL) {
@@ -252,23 +309,14 @@ int main(int argc, char* argv[]) {
         insertWord(&root, inputWord, lineNumber);
     }
 
-    // printTree関数を使用して，2文探索木の内容を表示します．これにより，中間順トラバーサルしたがってノードが表示され，各単語とその出現行番号が表示される．
-    printTree(root);
-
-    /*
-     *
-     *
-     *
-     *
-     */
-
     // stopwordの試し
     puts("");
     i = 0;
     while ((c = fgetc(stopWordFile)) != EOF) {
         if (c == '\n') {
             stopWord[i] = '\0';
-            printf("stopword : %s \n", stopWord);
+
+            deleteNodeByWord(&root, stopWord);
             i = 0;
         } else {
             stopWord[i] = c;
@@ -278,15 +326,14 @@ int main(int argc, char* argv[]) {
 
     if (i != 0) {
         stopWord[i] = '\0';
-        printf("stopword : %s \n", stopWord);
+        deleteNodeByWord(&root, stopWord);
     }
 
-    /*
-     *
-     *
-     *
-     *
-     */
+    char* stop = "to";
+    deleteNodeByWord(&root, stop);
+
+    // printTree関数を使用して，2文探索木の内容を表示します．これにより，中間順トラバーサルしたがってノードが表示され，各単語とその出現行番号が表示される．
+    printTree(root);
 
     // ノード数を計算
     puts("-------------------------------");
