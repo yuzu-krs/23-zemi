@@ -4,7 +4,7 @@
 
 #define uchar unsigned char
 #define max(a, b) ((a) > (b) ? a : b)
-
+// bm_search(str, strlen(str), bm, strlen(bm)));
 /*長さtext_lenの文字列textから長さpat_lenの文字列patternを探索する（BM法)*/
 int bm_search(uchar *text, int text_len, uchar *pattern, int pat_len) {
     /*テキストとパターンの不一致が見つかったときにどれだけずらすかを示す表*/
@@ -38,13 +38,4 @@ int bm_search(uchar *text, int text_len, uchar *pattern, int pat_len) {
     }
     /*結局見つからなかった*/
     return -1;
-}
-
-int main(void) {
-    char str[] = "abcdefghijklmn";
-    char bm[] = "gh";
-
-    // 見つからない場合-1を返す
-    printf("%d\n", bm_search(str, strlen(str), bm, strlen(bm)));
-    return 0;
 }

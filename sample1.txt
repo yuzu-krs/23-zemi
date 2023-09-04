@@ -1,0 +1,12 @@
+A lot of programmers that you might interview these days are apt to
+consider recursion, pointers, and even data structures to be a silly
+implementation detail which has been abstracted away by today's many
+happy programming languages. "When was the last time you had to write
+a sorting algorithm?" they snicker.
+
+Still, I don't really care. I want my ER doctor to understand
+anatomy, even if all she has to do is put the computerized
+defibrillator nodes on my chest and push the big red button, and I
+want programmers to know programming down to the CPU level, even if
+Ruby on Rails does read your mind and build a complete Web2.0 social
+collaborative networking site for you with three clicks of the mouse.

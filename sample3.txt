@@ -1,0 +1,2558 @@
+                  The Three Kingdoms and Western Jin
+               A history of China in the Third Century AD
+
+Internet edition 2003
+ 
+Rafe de Crespigny
+
+Faculty of Asian Studies, Australian National University NOTE: This
+article was originally published in East Asian History [ISSN
+1036-6008], The Australian National University, Canberra no. 1 [June
+1991], pp. 1-36, & no. 2 [December 1991], pp. 143-164. Internet
+publication last revised in November 2003.  The whole work is
+copyright. Apart from any fair dealing for the purpose of private
+study, research, criticism, or review, as permitted under the
+Copyright Act, no part may be reproduced by any process without
+written permission. Enquiries should be made to the Faculty of Asian
+Studies at the Australian National University.
+
+Note to the Internet edition 2003: This document contains the text of
+an article published in two parts in the Canberra journal East Asian
+History: Number 1, June 1991, 1-36, and Number 2, December 1991,
+143-164. Maps and annotations are included, but not characters. I have
+added some references to works in the field published since 1991, but
+have not at this stage attempted a comprehensive bibliography. In a
+letter of 1994, Professor Fang Beichen of Chengdu University provided
+some comments; I am most grateful to him and have made a number of
+changes in accordance with his advice.
+
+Note to the original article 1991: This work has been prepared as a
+chapter for the second volume of The Cambridge History of China. I
+present it here in preliminary form because I believe there is room
+for a general survey of the third century, which saw the transition
+from a long-unified empire to a comparable period of disunity and
+conflict, and because I know that I shall benefit from the comments
+and criticisms of others. I emphasise that the piece is designed as a
+discussion of events: I refer occasionally to matters of literature
+and philosophy, but there are others expert in those fields, and I
+have sought only to provide a historical background for their
+analysis.
+
+ 
+Table of contents
+
+    * Part 1: The Formation of the Three Kingdoms (189-220)
+          o The successes of Cao Cao
+          o The Red Cliffs campaign (208)
+          o The struggle for the middle Yangzi
+    * Part 2: Rival Empires (220-265)
+          o Wu and the south
+          o Shu-Han
+          o Wei and the Sima family
+    * Part 3: The Empire of Western Jin (265-317)
+          o The unification of China (265-280)
+          o Settlement of the empire (280-290)
+          o Empress Jia and the eight princes (290-306)
+          o The peoples of the steppe and the collapse of Western Jin
+    * Conclusion: Patterns of the Third Century
+    * Sources and Common Abbreviations [ pdf file 174 kb]
+    * Notes [ pdf file 174 kb]
+    * Maps [ pdf large file 786 kb]
+          o Map 1 Warlords at the end of Han
+          o Map 2 The Decisive Campaigns 219-222
+          o Map 3 The Three Kingdoms about 230 AD
+          o Map 4 Colonisation in the south 140-280
+          o Map 5 The empire of Jin about 280 AD
+          o Map 6 Northern China in the early 4th century
+
+PART 1: The Formation of the Three Kingdoms (189-220)
+
+The successes of Cao Cao
+
+It is not often in history that a major change can be dated so
+precisely as the fall of the empire of Han. On the evening of 24
+September 189 the general Dong Zhuo, camped outside the capital city
+of Luoyang, saw flames rise up against the sky. He led his army
+forward to deal with the disorders, and at that moment the power of
+the imperial government was ended.
+
+When Dong Zhuo entered the capital, he did so without formal
+authority, but he faced no legitimate opposition, and his seizure of
+power turned the political structure of the state back to its roots.
+Despite cosmological and political theories of the time, the essential
+factor in government had been the military authority of the emperor.
+The founders of the dynasty, Emperor Gao of Former Han and Emperor
+Guangwu of Later Han, had gained the throne by victory in civil war,
+and their descendants had ruled in succession just because, in the
+last resort, their armies would obey their imperial commands. Now,
+however, that authority was gone. On 28 September, Dong Zhuo deposed
+the young emperor Liu Bian and placed his half-brother Liu Xie,
+Emperor Xian, upon the throne. Within a few weeks there was open
+rebellion and the whole of eastern China was cut off from the new
+government at Luoyang.
+
+The impetus for opposition to Dong Zhuo, however, came as much from
+personal ambition as from any desire to restore the power of Han.
+Leaders of the rebels in the east included Yuan Shao and Yuan Shu, who
+controlled a network of influence based on the high official status of
+their family and their wealth of landed property, and men such as Cao
+Cao, not so well regarded, but with sufficient resources of family
+property to raise his own private army. Many of the regular officials
+of the provinces were reluctant to break the peace, but the local
+pressure was overwhelming, and those who did not join the rebels were
+swiftly eliminated. And there were, of course, numbers of fighting men
+and adventurers, some of them with pretensions to an official
+position, who took advantage of the growing turmoil to seek power and
+profit on their own initiative.
+
+In 191 the army of Sun Jian, under the command of Yuan Shu, drove Dong
+Zhuo from Luoyang west to Chang'an, and in 192 Dong Zhuo was
+assassinated by his former body-guard Lu Bu. The central government
+fell into complete disorder and played no further part in the affairs
+of the rest of the empire, and the alliance in the east broke up into
+an anarchy of warfare across the whole of the plain.
+
+In this first stage of the wars, there were a multitude of contenders
+for success or survival. From his base at Ye city in Ji province, Yuan
+Shao extended his power north of the Yellow River, while further
+south, between the Yellow River and the Huai River, there was a tense
+and vicious conflict between Yuan Shu, Cao Cao, Tao Qian the Governor
+of Xu province, Lu Bu from the northwest and Liu Bei, a man of poor
+family who yet claimed descent from the rulers of Former Han. Yuan Shu
+was driven south of the Huai River in 193, Tao Qian was destroyed in
+194, and Liu Bei surrendered in 196. As his power spread, Cao Cao's
+army combined family connections, gentry allies, soldiers of fortune
+and surrendered rebels, and by 198, when he captured Lu Bu and killed
+him, Cao Cao had no further rival in the southern part of the Yellow
+plain.
+
+Of those early opponents, Tao Qian was an appointed official who could
+claim no strong local support against a determined enemy, while at the
+other end of the scale Lu Bu and Liu Bei were soldiers of fortune who
+relied for success entirely upon their military prowess and
+reputation. They were not regarded as men of good social position,
+they did not have notable support among the gentry, and they failed to
+attract a substantial body of advisers and administrators to their
+service. So their power was brittle, and no match in the longer term
+for a competent opponent who could also offer some form of stable
+government. More commonly, such a leader without background would
+subordinate himself to a man of national authority, and it was for
+this reason that Sun Jian, who had obtained a large army in 189 but
+who came from an insignificant family of the southeast, accepted Yuan
+Shu as his chief and fought thereafter under his orders.
+
+Sun Jian was killed early in the civil war, in a campaign against Liu
+Biao the Governor of Jing  province, and in 193 Yuan Shu was driven
+south into Yang province. From his new capital at Shouchun in
+present-day Anhui, he made some attempt to regain the ground he had
+lost north of the Huai River, and in 197 he took title as emperor of a
+new dynasty. Yuan Shu's claim, however, was rejected even by his
+allies, and every hand turned against him. Abandoned by almost all his
+followers, he died in the summer of 199. Though the empire had become
+a gigantic battleground, and the emperor himself was a powerless
+puppet, the imperial title was still reserved to the house of Liu.
+
+In 196 Emperor Xian made his escape from the squabbling warlords of
+Chang'an, and with a combination of luck and imagination Cao Cao took
+him under protection and control. Playing the hand far more carefully
+than had Dong Zhuo, Cao Cao established the formalities of an imperial
+court at present-day Xuchang in Henan, and he justified his actions as
+a loyal minister of Han.
+
+In the summer of 200, after months of planning and preparation, Yuan
+Shao and Cao Cao met in a long-drawn campaign about the small city of
+Guandu, south of the Yellow River near present-day Kaifeng. Cao Cao's
+forces were heavily outnumbered, but they held their defence for more
+than a month, and then a fortunate raid against the enemy's supply
+lines broke the morale of Yuan Shao's forces and drove them in
+disorder to the north. Two years later, Yuan Shao died, his sons
+quarrelled about the inheritance, and Cao Cao took advantage of the
+confusion. In 204 he captured Ye city, and by 207, after a brilliant
+campaign beyond the frontier against the non-Chinese Wuhuan, he had
+established control over all the Yellow plain.
+
+Cao Cao was a fine general and a remarkable politician, and he has
+acquired a legendary status in Chinese tradition. To appreciate the
+reality of his achievement, however, we must recognise the pattern of
+conflict within which he gained his success.
+
+The ramshackle pattern of military recruitment had considerable effect
+upon techniques of warfare and upon the structure of politics for
+generations to come. Despite theories and formalities of ranks and
+grades, the basic fighting unit was the group which had gathered or
+been conscripted about some leader, and each unit was accompanied by a
+mass of camp-followers, wives and children, cooks and prostitutes,
+peddlers and gamblers, and a few who specialised in care of the sick
+and wounded. At the core of command, each chieftain was supported by a
+group of companions, close relatives or old friends and comrades, whom
+he could rely upon completely and who served as a focus for the mass
+of his troops.
+
+In these circumstances, success in combat depended very largely upon
+the personal courage of the individual commander, the degree with
+which he could encourage his men to follow him, and the ability to
+rally them to his standard even after serious defeat. Though accounts
+of the time exaggerate the heroism of the leaders, it does appear that
+the pattern of battle required a direct attack by small body of men,
+who sought to "break the enemy line" and throw the opposing body of
+troops into disorder and flight. The officers who could embark on such
+an enterprise were certainly brave and physically skilful, but they
+were also likely to be violent and egotistical, and they were not
+necessarily competent administrators or thoughtful counsellors.
+
+The troops these men commanded were unwieldy and uncertain. As
+authority depended primarily upon prestige and personality, no
+individual could exercise real control over more than a few hundred or
+perhaps a thousand men, and any substantial force, perhaps thirty
+thousand men, must be ordered through a long hierarchy of command,
+from the leading general to individual units. With limited means of
+communication, there were constant problems of discipline and supply,
+while such a military mass was extremely difficult to manoeuvre in the
+face of battle, where even a minor set-back could produce loss of
+morale and swift collapse. And though the question was often ignored,
+there was serious danger of disease amongst such a host of men
+gathered together. To a considerable degree, armies of that time
+carried with them the seeds of their own destruction.
+
+In more general, even philosophical terms, there has been some debate
+on the nature of Cao Cao's social or class position, and his
+significance as the representative of middle and lower land-holders
+and gentry as opposed to the members of old and powerful clans
+represented and championed by Yuan Shao. Indeed it is true that the
+perception of social status as a source of authority was sometimes
+more important than practical matters, for the dominance of gentry
+families in the political society of Later Han had brought a general
+expectation that local and national authority was reserved to men of
+lineage. On the other hand, though family background could determine
+whether a man had sufficient status to maintain an independent command
+and attract useful administrative support, it is too simplistic to
+base analysis purely on questions of class conflict. Many
+contemporaries regarded the ambitions of the Yuan as excessive and
+deluded, and Cao Cao was, sensibly, more cautious. The Cao and their
+kinsmen of the Xiahou family were parvenus compared to great lineages
+such as the Yuan, but Cao Cao's father had been Grand Commandant, most
+senior position in the imperial administration, Cao Cao's first
+recruitment of troops was based upon family resources, and he had
+sufficient standing to seek and achieve an independent position.
+
+Once he had entered the contest, Cao Cao's great achievement was to
+gain and hold the loyalty of a vast number of different commanders and
+their followers, and to maintain his disparate forces as a coherent
+military power. This was a matter of personal ability, and when he had
+established his authority south of the Yellow River it was upon the
+basis of that regional command that he mounted his opposition to Yuan
+Shao and other rivals. In the political and military manoeuvring which
+culminated in the decisive battle of Guandu, there was discussion of
+Yuan Shao's claim to great family and of Cao Cao's talent as a leader,
+but this was rather in the nature of propaganda than the echoes of a
+Marxist confrontation: the critical conflict was between the warlord
+north of the Yellow River and his rival to the south, and Cao Cao
+gained the victory because he organised his resources more effectively
+and commanded his army with greater skill.
+
+By the end of 207, after his conquest of the territory formerly
+controlled by Yuan Shao, Cao Cao had established government over half
+the population of the empire, and he controlled the heart-land of
+China. From this central position, he was faced by a scattering of
+opponents, none of them in close alliance and each one weaker than
+himself. In the northeast, the southern part of Manchuria, Gongsun Du
+had established a separatist state, and he was succeeded by his son
+Gongsun Kang in 204. North across the frontier and in the region of
+present-day Shanxi, imperial control had largely given way to a medley
+of non-Chinese tribes, in which the remnants of the Xiongnu state
+struggled for survival against the erratic power of the Xianbi. In
+Liang 2D province, about present-day Gansu, rebellion which had broken
+out in 184 had been restricted to that territory, but the confusion
+had been made worse by the collapse of government at Chang'an after
+the death of Dong Zhuo. To the west, in present-day Sichuan, Liu Yan,
+the Governor of Yi province appointed in 188, had been succeeded by
+his son Liu Zhang in 194. Immediately to the north of Liu Zhang's
+territory, Hanzhong commandery on the upper Han River in present-day
+southern Shenxi was under the theocratic government of Zhang Lu,
+leader of the Five Pecks of Rice sect, recognised by the present-day
+Taoist church as third patriarch of the Celestial Masters.
+
+Immediately after his campaign to settle the north, however, Cao Cao
+turned his attention southwards against Liu Biao, Governor of Jing
+province, and the young warlord Sun Quan who controlled the lower
+course of the Yangzi.
+
+At the beginning of Later Han, the critical phase of civil war had
+been the struggle for command of the Yellow plain, and when the future
+Emperor Guangwu had gained that territory it was only a matter of time
+before the rival warlords on the periphery fell under his control. In
+208, as Cao Cao embarked on his campaign to the south, it was
+generally expected, even by his opponents, that the same pattern would
+be followed once again. By a combination of changed circumstances and
+the fortunes of war, however, the unity of the empire was not restored
+so quickly, and it was indeed very long delayed.
+
+ 
+
+The Red Cliffs campaign (208)
+
+We have noticed Sun Jian, former Grand Administrator of Changsha and
+then general in the service of Yuan Shu. After his death on campaign
+against Liu Biao, his forces were largely taken over by Yuan Shu but a
+few years later, about 194, his son Sun Ce, then aged eighteen, took
+service with Yuan Shu. He was given command of some of the soldiers
+who had followed his father, and was sent to join operations south of
+the Yangzi.
+
+The Sun came from Wu commandery in present-day Zhejiang, but they were
+not a leading family of that region, and Sun Jian had made his career
+as a fighting soldier. In similar fashion, Sun Ce established his
+position in the southeast essentially through his own remarkable
+military skill. By 198, at the age of twenty-three, he had declared
+independence from his former patron Yuan Shu, now a usurping emperor,
+and he held control of Danyang, Wu and Kuaiji commanderies, a stretch
+of territory from present-day Nanjing past Hangzhou Bay, including
+some outposts on the coast of Fujian. From this base Sun Ce extended
+his power westwards, and by 200 he had taken Yuzhang commandery about
+the present-day Poyang Lake in Jiangxi, and Lujiang commandery north
+of the Yangzi.
+
+In this series of campaigns, Sun Ce had to deal not only with the
+semi-regular troops of rival administrators, but also with bandits,
+with local self-defence groups, and with powerful clans which had
+gathered their own private armies. In many respects the warfare was as
+much a matter of local rivalry as a formal struggle for power, and in
+200, soon after his conquest of Poyang, Sun Ce was ambushed and
+assassinated by former retainers of a defeated local family from Wu.
+
+Sun Ce was succeeded by his younger brother Sun Quan, at that time
+eighteen years old. The warlord state, however, was sufficiently well
+established that it survived the immediate crisis, and Sun Quan
+swiftly established his authority in the territory his brother had
+left him. By 203 he was expanding further to the west, and early in
+208 he destroyed Huang Zu, the subordinate commander of Liu Biao who
+controlled the territory about present-day Wuhan on the middle Yangzi.
+
+On the eve of Cao Cao's campaign against the south, therefore, Sun
+Quan held a curve of territory from Hangzhou Bay to the Yangzi estuary
+and west towards Wuhan. He had, however, no strong position north
+towards the Huai River, and much of the hill country in the south was
+inaccessible, inhabited by the non-Chinese Yue people and by refugees
+from official levies or the disturbances of war. On the other hand,
+whereas Sun Quan's power was only a fraction of that which Cao Cao
+could mobilise, his navy on the Yangzi was experienced and effective,
+and had established a local superiority.
+
+Cao Cao's first opponent was Liu Biao, Governor of Jing province. Liu
+Biao had been appointed to that position by the Han government under
+control of Dong Zhuo, but after the early 190s, when he had repelled
+the attack of Sun Jian and Yuan Shu, he played no substantial role in
+the civil war of the north. The territory formally under his control
+extended south from his capital at present-day Xiangfan down the Han
+River to the Yangzi, and then south again up the valley of the Xiang
+River, but in practice his authority beyond the Yangzi was tenuous,
+while his eastern flank was under threat from Sun Quan.
+
+In the autumn of 208, moreover, Liu Biao died. Through political
+manoeuvring, the succession was taken by his younger son Liu Zong, and
+the elder Liu Qi was left discontented and rebellious. As Cao Cao
+approached, Liu Zong's supporters urged him to surrender, and indeed
+he had no alternative. Cao Cao took over the province, made his own
+appointments to the local government, and gathered many of the leading
+officials and scholars at Liu Biao's court into his own service.
+
+There was, however, a party of opposition, to some degree centred
+about Liu Qi, but inspired primarily by Liu Bei, who had fled from the
+north some years before. Liu Bei attempted to rally the dissidents and
+establish a line of defence on the Yangzi. Chased, caught and heavily
+defeated by Cao Cao, however, he turned to seek support from Sun Quan.
+
+It was not an easy decision. Liu Bei and Liu Qi were in exile and
+retreat, and although Liu Bei's lieutenant Guan Yu had collected much
+of the Jing province fleet from the Han River, Cao Cao had control of
+the naval base at Jiangling on the Yangzi. As he brought his army and
+his new fleet eastwards in pursuit, he also sent messengers calling
+Sun Quan to surrender.
+
+Sun Quan was uncertain of his best course of action, and there was
+considerable debate at his headquarters. He decided, however, to send
+troops forward under the command of Zhou Yu, to join Liu Bei and Liu
+Qi, and to test Cao Cao's strength. If their defence should be
+unsuccessful, he could expect to withdraw most of his men, and he
+would still have a reserve army with which to negotiate terms.
+
+The allies met Cao Cao's forces at the Red Cliffs, on the Yangzi
+between present-day Wuhan and Yueyang, and for a few days the two
+groups faced one another across the river. The men from the north had
+already taken part in a long campaign with several forced marches,
+they were not used to the southern waterways and marshlands, and we
+are told there was sickness in the camp. Some of the army and all of
+the fleet had formerly served Liu Biao, and many must have been
+undecided about their new master. For his own part, Cao Cao probably
+regarded the operation as a reconnaissance in force: if he was
+successful in defeating the allies and driving them to separate
+surrenders, so much the better if not, he could withdraw and look for
+another occasion in the future.
+
+Cao Cao's first attack was driven back and then the wind changed
+against him and Zhou Yu sent in an attack with fire-ships. In the
+technology of warfare of that time, fire was a common weapon, and when
+used in the right circumstance it could create large-scale
+destruction. Whatever preparations Cao Cao may have made against the
+threat, he was compelled to abandon his position and retreat, and the
+allies enhanced their victory with tales of slaughter. The battle at
+the Red Cliffs has become one of the most celebrated of Chinese
+history, it is the theme of several plays and poems, and the
+centre-piece of the great historical novel Romance of the Three
+Kingdoms.
+
+It is very likely that the account of Cao Cao's defeat has been
+exaggerated, and literary tradition has embellished the story out of
+all proportion, but later events justify the engagement as one of the
+decisive battles of Chinese history. As Cao Cao retreated, he left
+garrisons behind him, but in the following year Zhou Yu's army
+captured Jiangling, and the southerners thereafter faced no serious
+threat to their naval control of the Yangzi. Cao Cao and his
+successors made several attempts to break the river defences, but they
+could not match the strategic position or the tactical skills of their
+enemies. Neither side may have realised it at the time, but the Red
+Cliffs campaign was the last chance for many years to re-unite the
+empire, for it was control of the middle Yangzi which meant the
+difference between survival and surrender in the south.
+
+The struggle for the middle Yangzi
+
+With the fall of Jiangling, Cao Cao's territory in the south was
+restricted to the Han River, with Xiangyang as his centre of defence.
+Sun Quan, as chief of the allies, naturally expected to profit from
+their success, but while his attention was devoted to his own position
+in the east, with an unsuccessful sortie northwards across the Huai
+River, Liu Bei and his chief adviser Zhuge Liang seized the
+commanderies south of the Yangzi, and established a dominant position
+in the southern part of Jing province. In 210, Zhou Yu died, and Sun
+Quan had no one of comparable authority to take his place. He was
+compelled to transfer the territory of Jiangling to Liu Bei, and he
+retained only the eastern region from Wuhan to the Dongting Lake.
+
+In 211, Cao Cao turned to the northwest, broke the back of a warlord
+coalition in the Wei River valley, and re-occupied the territory about
+Chang'an. Faced with this threat to his north, Liu Zhang invited Liu
+Bei to come to his aid in Yi province and assist him, first against
+Zhang Lu in Hanzhong and then in due course against Cao Cao. Liu Bei
+accepted the invitation, but one year later he forced a quarrel with
+Liu Zhang and turned against him. In 214 Liu Zhang was compelled to
+surrender, and Liu Bei took over his territory.
+
+During this period Cao Cao and Sun Quan had engaged one another in the
+southeast, but Cao Cao's forces had no success against Sun Quan's
+position on the Yangzi, while Sun Quan was unable to break the line of
+the Huai River. In particular, Cao Cao's administrator Liu Fu
+established agricultural garrisons about Shouchun and Hefei, and the
+settled peasant militia gave a long-term stability to the defence of
+the region. Further south, in campaigns against the non-Chinese people
+and the refugees or renegades of present-day southern Zhejiang and
+Fujian, Sun Quan's officers, notably He Qi and Lu Xun, began a process
+of conquest and colonisation which increased the territory of the
+state and added considerably to the human resources that could be
+taxed and recruited for corvee service and war.
+
+When Liu Bei seized power in Yi province, however, Sun Quan turned his
+attention again to the middle Yangzi, and demanded a greater share of
+the territory in the basin of the Xiang River. Apart from the
+resentment with which he had watched his erstwhile weaker ally gain
+territory in Sichuan, it was clear that the resources he currently
+commanded were not sufficient to maintain long-term defence against
+the north. In 215 Sun Quan's officer Lu Meng was sent to seize the
+southern commanderies of Jing province. Liu Bei's general Guan Yu
+brought an army in counter-attack, and the rival warlords agreed on a
+new settlement, establishing the Xiang River as the boundary between
+them. Both were concerned by the threat from the north, and Liu Bei
+was also distracted by the situation in Yi province, where Cao Cao's
+attack from Chang'an across the Qin Ling range divide compelled the
+surrender of Zhang Lu in Hanzhong, and opened the way for a direct
+attack on Liu Bei.
+
+For the time being, however, Cao Cao was chiefly concerned with the
+organisation of the territory now under his control, with the
+suppression of some internal plots against his authority, and with
+consolidation of his power as the dominant figure at the refugee court
+of Han. Imperial Chancellor since 208, in 214 he received the title
+Duke of Wei, and in 217 he became King of Wei and appointed his eldest
+son Cao Pi as Heir. Cao Cao's major military activity in this period
+was one more attack against Sun Quan's position on the lower Yangzi,
+but although he compelled Sun Quan to make formal surrender and
+acknowledge him as king, the diplomatic coup had no effect upon the
+military relationship of the two sides nor upon Sun Quan's freedom of
+action. In that year, moreover, a major outbreak of plague, which may
+have begun among the armies on the Yangzi, also attacked the court and
+took many of the leading scholars of the day.
+
+For the immediate political future of China, the events of 219 were
+critical. At the beginning of that year, after a long campaign of
+stalemate, Liu Bei defeated and killed Cao Cao's general Xiahou Yuan
+in Hanzhong. Cao Cao brought reinforcements in an attempt to rectify
+the damage, but he could not regain the territory, and he was
+compelled to retreat across the Qin Ling divide. So Liu Bei's borders
+were secured against the north, and in celebration of the victory he
+proclaimed himself King of Hanzhong.
+
+To the east, the enemies of Wei sought to take advantage of Cao Cao's
+misfortune in Hanzhong. Sun Quan made another unsuccessful attack
+against Hefei, but Guan Yu on the middle Yangzi presented a far more
+serious danger. From his base at Jiangling, he attacked up the line of
+the Han River, and he was fortunate to encounter heavy summer rains
+and flooding. One of Cao Cao's armies, caught in the open, was washed
+away, and Guan Yu brought his ships to the walls of Fan city, at
+present-day Xiangfan, last obstacle to an advance north into Nanyang
+and the heart of Cao Cao's power. The garrison in Fan city was
+isolated and outnumbered, and their fortifications were eroded by
+water, but they held out for three months, and then Guan Yu himself
+was attacked and destroyed.
+
+Until this time, despite the incident of 214, Sun Quan and his chief
+commander in Jing province, Lu Su, had agreed their best policy was to
+maintain the alliance with Liu Bei rather than face Cao Cao alone. Sun
+Quan, however, was not satisfied with the territory he had acquired,
+and he was concerned that his nominal ally in the west might soon
+become as much of a threat as his enemy in the north. When Lu Su died
+in 217, Sun Quan appointed Lu Meng, who had served as a personal agent
+for him in the past, to take his place, and although they continued to
+speak fair to Guan Yu, the Sun group was looking for some opportunity
+to act against him.
+
+In the autumn of 219, as Guan Yu was committed to the attack up the
+Han River and the siege of Fan city, Lu Meng prepared a secret
+invasion and struck westwards along the Yangzi against Jiangling. The
+surprise was complete, Guan Yu's position collapsed in ruins, he
+himself was killed and the greater part of his army surrendered. Cao
+Cao's position in the Han valley was restored, and Sun Quan held all
+the territory east of the Yangzi gorges.
+
+At the beginning of the following year, 220, Cao Cao died at the age
+of sixty-six sui, and he was succeeded by his son Cao Pi. In the
+winter, on 11 December 220 by Western reckoning, the new ruler of Wei
+received the abdication of the last emperor of Han and proclaimed his
+own accession to the Mandate. Six months later, on 15 May 221, Liu Bei
+in Sichuan made a rival claim as emperor of the continuing house of
+Han: from the chief commandery of that province, his dynasty is
+generally known as Shu-Han.
+
+For the time being, Sun Quan accepted the continued suzerainty of Wei
+and recognised Cao Pi's new honour. In exchange he received
+enfeoffment as King of Wu, but his chief concern was to hold the
+northern state in benevolent neutrality while he sought to deal with
+the inevitable attack from Liu Bei, seeking revenge for the
+destruction of Guan Yu and reconquest of the territory he had lost in
+Jing province. In this, Sun Quan was successful, for Cao Pi was new to
+power and to the usurping title, and could not afford to turn too
+ostentatiously against his own feudatory.
+
+The attack from Shu against Wu came at the end of 221, and in the
+spring of 222 Liu Bei arrived to take command of operations. Lu Meng,
+Sun Quan's commander against Guan Yu, had been ill at the time of that
+campaign and died soon afterwards, and Sun Quan appointed his
+son-in-law and close confidant Lu Xun, a man of good gentry and
+official family, to take responsibility for the defence of the west.
+Against the advice of his subordinates, Lu Xun waited until Liu Bei
+was fully committed along the Yangzi below the Yangzi Gorges, but in
+the sixth Chinese month, at the end of the summer, he made a series of
+attacks with fire against the flank of Liu Bei's extended positions,
+and the army of Shu-Han was broken. Liu Bei made his escape to Bodi
+"White Emperor" city, near present-day Fengjie in Sichuan, and he died
+there in the following year.
+
+After the destruction of Guan Yu in 219, the defeat of Liu Bei in 222
+confirmed Sun Quan's control of Jing province, and Sun Quan wasted
+little time in reneging on his fealty to Wei. He failed to send the
+hostages he had promised, and when Cao Pi came south to enforce the
+pledge Sun Quan's armies defied him with success on both the middle
+and the lower Yangzi. As sign of his independence, Sun Quan announced
+his own reign-title, and in the winter of that year, the beginning of
+223, completing a brilliant series of diplomatic manoeuvres, he
+negotiated peace and friendship with the government of Liu Bei.
+
+In military terms, the division of the empire of Han between three
+rival states was complete. There were individual warlords and rulers
+on the perimeters of the former empire, but the essential boundaries
+had been drawn. In the west, the victory of Liu Bei in Hanzhong had
+brought the upper Han valley under his control, and set the lines of
+battle in that area along the Qin Ling range divide, south of the
+valley of the Wei River. On the middle Yangzi, Jing province of Han,
+the major possibilities of manoeuvre were ended: Shu-Han was
+restricted to the west of the Yangzi Gorges while Wei and Wu shared a
+hostile, but largely static, frontier about the lower Han River. In
+the southeast, Cao Cao's establishment of agricultural garrisons, and
+the consistent failure of Sun Quan's sorties against Hefei and
+Shouchun, confirmed the grasp of Wei along the Huai, but Sun Quan's
+naval power on the Yangzi was never seriously threatened, and between
+the two lines of defence there stretched a desolate no-man's land.
+
+ 
+PART 2: Rival Empires (220-265)
+
+Hitherto, we have considered the division of Han largely in terms of
+the military geography which determined the frontiers of the three
+successor states. We must appreciate, however, that the very existence
+of these three "kingdoms" was in many respects an unexpected
+development. In former times, the brief interludes of civil war after
+the end of Qin and the fall of Wang Mang had been followed by swift
+reconstruction of a new government for the whole of China, and though
+the second century of Later Han had seen much discussion concerning
+the Mandate of Heaven, it had been generally accepted that the house
+of Liu should be revived or replaced, not that its inheritance would
+be divided. In many respects, the most interesting question about the
+end of Han is not why the dynasty fell, but why the unified empire was
+not restored. Any full answer to this question requires more than
+simple discussion of the chances of politics and war. We must consider
+the nature of the states which emerged from the ruin of Han.
+
+Wu and the south
+
+At the beginning of the first century AD, during the civil war which
+followed the fall of Wang Mang, the rulers of the south had offered no
+substantial resistance to the victor in the north, and at the end of
+the second century, during the time of civil war which followed the
+fall of Han, Sun Ce owed his initial success to the natural defences
+of the river and the weakness of his immediate northern neighbour Yuan
+Shu. By the time of the Red Cliffs campaign, however, the state of Sun
+Quan was strong enough to hold off a direct attack from the north.
+
+The territory then controlled by Sun Quan - the commanderies of
+Yuzhang, Danyang, Wu and Kuaiji - had contained less than two million
+people at the end of Former Han, but in the middle of the second
+century AD their number was assessed at more than three million. This
+increase of Chinese population south of the Yangzi was a critical
+factor in the division of the empire after the fall of the Han
+dynasty, for these human resources, under competent warlord government
+in that strategic situation, proved sufficient for survival.
+
+The growth of population in this region was part of a general trend
+during Han, and the demographic change may be traced in census records
+preserved from the beginning of the first century and the middle of
+the second century AD. At the time of the census recorded in the
+treatises of Hou Han shu, the registered population of the empire was
+a little less than fifty million individuals. Of this total, the
+southern parts of Jing province and Yang province provinces, later
+controlled by Wu, contained some seven million, and Jiao province in
+the far south had perhaps one and a half million. Numbers were
+affected by changes on the frontiers, by the toll of civil war and by
+migration from one region to another, but on the basis of those Later
+Han records the population of the territory of Wu was one-sixth of the
+former empire; the northern state of Wei could claim four times that
+number - two-thirds of the old empire.
+
+In this situation, though Sun Quan's state had based its early success
+on the demographic changes of the Later Han period, its survival
+depended on an energetic development of the territory and the people
+under its control. This consideration gave urgency to the expansion
+into Jing province, culminating in the destruction of Guan Yu in 219
+and the successful defence against Liu Bei in 222, while at the same
+time, the government of Wu extended its influence into the far south.
+
+Jiao province of Later Han occupied present-day Guangdong and Guangxi,
+together with the Red River delta and the coast of Vietnam as far
+south as Hue It was first brought under the control of China by the
+conquests of the First Emperor of Qin at the end of the third century
+BC, but the fall of Qin allowed the emigre Zhao Tuo to establish his
+independent state. The province was reconquered by the armies of
+Emperor Wu of Former Han at the end of the second century BC, and
+Emperor Guangwu's general Ma Yuan restored the authority of Later Han,
+but growing weakness in the central government during the second
+century had seen a number of local disorders and permitted the
+development of considerable local control. Towards the end of the
+century, Shi Xie, leader of a family of Chinese descent, established a
+personal hegemony through all the region. His capital, Longbian near
+present-day Hanoi, was a major trading centre, Shi Xie was admired for
+his authority and his scholarship, the splendour of his court was
+celebrated, and it became a place of refuge from the warfare of
+central China.
+
+For several years, the leaders in the north had other things to occupy
+them. After 200, however, Shi Xie appears to have relinquished close
+control of the eastern part of the province, present-day Guangdong,
+and there was some conflict between Cao Cao, now dominant in the
+north, and Liu Biao of Jing province. Each party sent nominees for
+positions of local authority, and Cao Cao allied himself directly with
+Shi Xie.
+
+In 210, after the death of Liu Biao and the defeat of Cao Cao at the
+Red Cliffs, Sun Quan appointed his officer Bu Zhi as Governor. From
+his base at Panyu, present-day Guangzhou/Canton, Bu Zhi established
+relations with Shi Xie, and Shi Xie sent tribute and hostages to Sun
+Quan. Now more than seventy years old, he was evidently content with a
+limited, if profitable, role in the Red River delta. Certainly, though
+Vietnamese tradition records him as "King Si", he appears to have made
+no attempt to emulate the political achievement of Zhao Tuo and the
+separate state of Nanyue four centuries earlier.
+
+In 220, Bu Zhi was succeeded by Lu Dai, who confirmed the position in
+Nanhai and Cangwu commanderies, and extended his influence over
+present-day Guangdong and Guangxi. When Shi Xie died in 226, Lu Dai
+was ready to remove the last vestiges of his power. Pressing against
+the formal position of the Shi clan, he forced a quarrel and arrived
+at the Red River with an army and a fleet. When the sons of Shi Xie
+surrendered, Lu Dai had them executed and sent their heads to Sun
+Quan. His authority was confirmed along all the southern shore as far
+as present-day Cambodia, the sea trade into southeast Asia was
+peacefully maintained, and the prosperity of the Shi family at the
+entrepot in northern Vietnam was now continued to the advantage of Wu.
+
+With the acquisition of this territory in the far south, Sun Quan
+obtained a source of notable wealth, and secured his frontiers to the
+west and north. When Liu Bei died in 223, the government in Shu-Han,
+now controlled by the regent Zhuge Liang, confirmed the arrangement of
+peace and alliance, and though. Cao Pi made several attacks on the
+line of the Yangzi, he was compelled each time to withdraw. In 226 Cao
+Pi died, and chief military attention shifted northwest to the
+frontier against Shu-Han along the Wei River valley in present-day
+Shenxi. In this period of stability and prosperity, on 23 June 229,
+Sun Quan assumed the imperial title for himself.
+
+In the context of traditional Chinese history, the claim is an
+eccentric one. The Cao family could assert that they held the greater
+part of the old empire, and their succession was legitimated by the
+abdication of Emperor Xian, while Liu Bei in the southwest claimed to
+represent the true imperial clan. Sun Quan had no such justification.
+His territory was on the fringes of the empire, and he had earlier
+accepted his title as king of Wu, and his calendar, from the usurping
+Wei. Sun Quan based his claim upon two predications: that the imperial
+position, vacated by Han, had not been filled by any worthy successor
+and that his own accession was justified by the virtue of his
+government, in particular by his concern for the people. He dismissed
+the claims of Wei by describing the Cao family as criminal usurpers,
+and without specific reference to the claim of Liu Bei, he stated
+simply that the fortunes of Han were ended, and the claim to
+succession had thus become irrelevant.
+
+No traditional historian has accepted Sun Quan's claim to the Mandate
+of Heaven. Much of the formal argument is based upon the incongruity
+of the regnal calendar, overlapping with Wei at the beginning and with
+Jin at the end, but it is, in any case, difficult to regard the
+imperial pretensions of Wu as very much more than a facade. The
+ministers and generals of Sun Quan were given titles from the official
+hierarchy of Han, and his capital became a centre of culture and
+wealth, but the essential structure of government was based upon an
+alliance of powerful local families under the hegemony of the Sun
+clan, and civilian authority was subordinated very closely to military
+power.
+
+Sun Quan did attempt to expand his empire beyond his immediate
+territory. He received emissaries from Funan and other countries of
+the south, he re-established a Chinese presence on Hainan island, he
+sent an expedition to Taiwan, and possibly also to the Ryukyus, and he
+sought to establish alliance with the Gongsun warlords of Liaodong in
+southern Manchuria. None of these initiatives, however, achieved real
+success, and the later military history of Wu was not impressive.
+
+Despite several attempts, the armies of Wu were unable to break the
+defences of Wei along the Huai River. There were two occasions, in 255
+and 257, when the city of Shouchun was seized by rebels against the
+political dominance of the Sima family in Wei, but the southerners
+could provide no useful assistance, and in each case the city was
+recaptured and the northern position was confirmed.
+
+For the most part, the strategy of Wu was defensive, with garrisons
+and naval bases along the line of the Yangzi. After some indecision,
+Sun Quan established his capital at Jianye, present-day Nanjing, which
+provided a centre for control of the lower Yangzi. Defence of the
+middle Yangzi and the lower Han River was based on the new city of
+Wuchang, downstream from the present metropolis of Wuhan, with a
+military government of wide independent power. For the most part, the
+traditional Han hierarchy of provinces, commanderies and counties was
+adequate for local administration, but on the frontier territory with
+Wei and Shu-Han there were also Area Commanders (dudu) to maintain
+defence along the Yangzi.
+
+After a government of more than fifty years, Sun Quan died in 252. His
+long reign provided a welcome stability, but it also brought
+difficulties for his successors and misfortune on his death. His
+eldest son and Heir Apparent, Sun Deng, had died in 241. The next
+surviving son, Sun He, was appointed to replace him, but that
+candidacy was bedevilled by factional feuding. In 250 Sun He was
+deposed, and the elderly Sun Quan was persuaded to pass the succession
+to his youngest son, the seven-year-old Sun Liang, under the
+guardianship of Zhuge Ke.
+
+This was a recipe for further intrigue and instability. In 253,
+eighteen months after the death of Sun Quan, and following a
+disastrous attack against Hefei, Zhuge Ke was assassinated by orders
+of Sun Liang under the influence of Sun Jun, a distant cadet of the
+imperial family. When Sun Jun died three years later, his cousin Sun
+Lin succeeded to the dominant position at court. In 258 Sun Liang, now
+in his mid teens, sought to rid himself of the over-powerful minister,
+but he was dethroned and replaced by Sun Xiu, sixth son of Sun Quan
+and some twenty-two years old. A few months later, Sun Xiu arranged a
+successful coup against Sun Lin and took power himself.
+
+The government of Sun Xiu was not particularly effective, and his
+death in 264 came just at the time the state of Shu-Han surrendered to
+Wei. In that period of emergency, Sun Hao, son of the former Heir
+Apparent Sun He and aged in his early twenties, was chosen as an adult
+ruler who might restore the fortunes and energies of the state. He
+achieved, however, only limited success, and in 280 he was compelled
+to surrender to the Jin state of the Sima family, which had taken over
+from Wei and which brought overwhelming force against him. At the time
+of the surrender, the population of Wu was reported as 523,000
+households, 2,300,000 individuals, 32,000 officials, and 230,000 men
+under arms.
+
+Overall, the history of Wu may be divided into two periods. At first,
+under Sun Ce and the younger Sun Quan, it was an energetic and
+aggressive state, commanded by men of military skill and achievement.
+Those officers who came from outside the ranks of the local gentry,
+however, depended closely upon the central government and were seldom
+able to establish an independent position in the society of the south.
+As the opportunities for expansion ended in the 220s, and the chances
+of politics and personality took their toll of the fortunes of the
+families of these early leaders, local clans and their retainers came
+to dominance.
+
+Apart from personal rivalries, therefore, the faction conflicts of the
+central government reflect the transfer of power from the original
+leaders of the warlord enterprise to the established local families.
+Within the palace, cadet branches of the Sun clan contended for
+influence, but just as the authority of the ruler was limited by the
+rivalry and conflict of the great clans at the capital, so the central
+government had limited authority in the daily affairs of the
+provinces.
+
+In 253, following the death of Sun Quan, the general Deng Ai in Wei
+observed that the great families of Wu, relying upon their military
+strength and their retainers, held the essential power of the state.
+Those families of the southeast which supported Sun Ce and Sun Quan in
+the early years had gained at the expense of their local rivals, and
+with the passage of time, they secured their positions as local
+magnates. They could be kept under control by the threat of force and
+by a system of internal hostages, but they were not easily overthrown
+by the chances of politics.
+
+At the basic level, moreover, the government of Wu, recorded by the
+histories in terms of generals and ministers and intrigue at court,
+relied upon a broad class of village and county gentry, who might
+accept provincial office in one commandery or another, but who had
+small interest or concern with the politics of the capital. From this
+point of view, the same pattern was maintained as in the last years of
+Later Han: essential dues were paid to the imperial government, but
+the details of its activities were largely irrelevant to local power,
+influence and survival.
+
+In its later years, therefore, the state of Wu was no longer an
+ambitious warlord enterprise, but a group of magnates concerned to
+maintain their wealth and authority. Faced with such a collection of
+family interests, operating at every level, the Sun rulers were never
+able to establish strong instruments for the control and development
+of agriculture and the machinery of war, with which they might compete
+efficiently against their rivals. In the end, though the government of
+Wu held power through its past military success, it failed to mobilise
+its resources to the full and it lacked authority against local
+interests within the state.
+
+One achievement, however, was of great importance for the future. We
+have noted how the increased population of the south during Han
+provided opportunity for the first establishment of the separate
+state. From this base, the rulers of Wu sought to increase the numbers
+of people and the amount of farmland under their control. In order to
+do so, they pressed constantly against the open territory to the
+south, to extract manpower and taxation from the isolated groups of
+non-Chinese native people and Chinese refugees who had settled earlier
+beyond the reach of the government. As each advance was made, the
+people were registered as citizens and subjects, and their human and
+economic resources became available for further expansion against
+their neighbours or for defence against the north. So the expansion
+and maintenance of the state of Wu were linked in a policy of warfare
+and colonisation.
+
+It is difficult to assess the speed of this process. In the very
+earliest years of the state, He Qi extended authority from the
+isolated coastal counties by present-day Fuzhou up the valleys of the
+Min River into present-day Jiangxi and southern Zhejiang, and
+subsequent campaigns confirmed control south of the Huang Shan
+mountains. In 234, a final assault was launched against the hills
+people of Danyang, and this operation, commanded by Zhuge Ke, was a
+consolidation of Chinese authority. The process, however, continued
+elsewhere, sometimes by officially sponsored campaigns, regularly by
+small-scale but consistent local aggression, a steady pressure backed
+up where necessary by official military force.
+
+One method of assessing the colonisation and conquests of the state of
+Wu in the southeast is by comparison of the counties listed at the
+time of the census of Later Han, about 140, with those which appear in
+the list of the Treatise of Geography of Jin shu, compiled soon after
+the conquest of Wu in 280. The Jin dynasty figures for population,
+based upon a taxation list, cannot be compared with those of Han,
+which represent a full census, but the existence of a county must
+indicate a real Chinese presence.
+
+On this comparison, the expansion of authority in the southeast is
+remarkable. By 280, within the territory of Wu from the south of the
+Yangzi to the north of Vietnam, the number of counties had doubled
+since the time of Later Han, from 160 to 322, and they were spread
+across territories where no such establishment had been seen before.
+The frontier had been transformed, and there were newly confirmed
+settlements in present-day southern Zhejiang, Jiangxi and Fujian.
+Though the initiative for expansion had arisen from the needs of the
+state of Wu, the achievement came eventually to benefit the empire of
+Jin: driven from the north at the beginning of the fourth century AD,
+the emigre court found refuge and security in the lands which had been
+developed by Wu.
+
+Shu-Han
+
+If the state of Wu was based upon the military achievement of one
+local family and its supporters, the claimant empire of Shu-Han in the
+west was the work of an itinerant warlord entrepreneur, and the
+soldiers of fortune who accepted his leadership.
+
+The history of Shu-Han, and particularly that of the founder Liu Bei
+and his chief minister Zhuge Liang, has been considerably distorted by
+the romantic tradition which presents Liu Bei as a hero of chivalry
+and Zhuge Liang as a master of warfare and magic. While Cao Cao is
+described as the powerful, proud and arrogant usurper of the imperial
+mandate, and the men of Wu are often ineffectual and self-seeking,
+sometimes treacherous, the government of Shu-Han is lauded as the true
+successor of the fallen empire and the centre of wisdom, courage and
+loyalty.
+
+It is possible to trace elements of such a cycle of stories to the
+Tang period and earlier, but it was well developed in Song and Yuan,
+with a great number of dramas in the traditional repertoire, and it
+came to full flower with the historical novel Romance of the Three
+Kingdoms [Sanguo yanyi] during Ming. The bias in favour of Shu-Han may
+also be found in the comments of the great philosopher Zhu Xi
+(1130-1200) on "legitimate succession", while the concept of a "true"
+government, still maintained on Chinese soil but exiled from the
+traditional centre of power, found popularity not only in Zhu Xi's
+dynasty of Southern Song, but also in the modern Republic of China on
+Taiwan.
+
+Despite this romantic tradition, and although some modern scholars
+have sought to use its material as a guide to the history of the Three
+Kingdoms, it is important to realise that the novel and the dramas are
+not independent sources of information. They are frequently and
+sometimes deliberately mistaken in what they recount, and they are of
+no more value for the study of the time they purport to describe than
+are the plays of Shakespeare for the history of England, Scotland or
+Rome.
+
+On the other hand, though we must ignore the brilliant falsehoods of
+romance, the history of Shu-Han is still remarkable.
+
+The founder of the state, Liu Bei, came from Zhuo commandery near
+present-day Beijing, and he acquired his first reputation in warfare
+against the Yellow Turban rebellion of 184. When civil war broke out
+in the 190s he served or allied himself with one warlord after
+another, and he held short-lived power over substantial territory in
+north China. In 200, however, at the time of the campaign between Cao
+Cao and Yuan Shao about Guandu, Liu Bei was thoroughly defeated by Cao
+Cao's forces and fled to take refuge with Liu Biao.
+
+For the next several years, Liu Bei had no notable role in the
+politics of the empire. He did, however, maintain the followers who
+had accompanied him into exile, he developed connections among Liu
+Biao's own entourage, and it was at this time he met Zhuge Liang. In
+208, when Liu Biao died and Cao Cao came south, Liu Bei established
+himself as the chief of those who sought to oppose the surrender. He
+was briskly defeated, but fled to seek support from Sun Quan, and
+after the victory at the Red Cliffs he established a position in the
+southern part of Jing province.
+
+In 211 Liu Bei was invited into Yi province by the Governor, Liu
+Zhang, to assist him in dealing with enemies on his northern borders.
+Liu Zhang, not a man of military distinction or great personal
+authority, sought the borrowed authority and the experienced army of
+his nominal "cousin", but a strong party at Liu Zhang's court was
+prepared to welcome Liu Bei as ruler of the whole territory. Liu Bei
+agreed to their proposal, and little more than a year after his
+arrival in the west he turned against his patron and employer. In the
+summer of 214 he received Liu Zhang's surrender and established his
+own regime at Chengdu.
+
+In 219 the decisive victory over Xiahou Yuan established Liu Bei's
+control of the Han valley, and gave justification for his claim to the
+royal and then imperial title of Han. Further east, however, the
+destruction of Guan Yu, and the failure of Liu Bei's expedition down
+the Yangzi three years later, restricted the territory of his state to
+Yi province, and despite its imperial pretensions Shu-Han never
+recovered from those massive defeats.
+
+When Liu Bei died in 223, his son Liu Shan was seventeen, but Zhuge
+Liang acted as regent and held control of the government. He confirmed
+the alliance with Wu, and in campaigns to the south during 224 and 225
+he established control of the territory and people as far as the Dian
+Lake in present-day Yunnan. In 227 he turned his attention to the
+north: from Hanzhong he launched a series of attacks across the Qin
+Ling range, and he encouraged defection among the Wei commanders to
+the west, in present Hubei. The renegade Meng Ta, however, was quickly
+destroyed by the Wei general Sima Yi, and Zhuge Liang was not able to
+establish a position. In 229 he did acquire the territory of Wudu
+commandery, the southern part of present-day Gansu on the upper Han
+valley, and in 233 he embarked on a renewed attempt to break the line
+of the mountain barrier. He was, however, successfully opposed by Sima
+Yi, and he died in the following year.
+
+After a short period of intrigue and confusion, Zhuge Liang's position
+as commander-in-chief and head of government was taken by Jiang Wan.
+Like Zhuge Liang, Jiang Wan had his headquarters in Hanzhong, on the
+frontier against Wei, and the central administration at Chengdu was
+maintained by a secondary office. In 244, Jiang Wan became ill and
+left active service, and at his death in 246 Liu Shan, now forty years
+old, took formal authority at the capital. Despite his maturity Liu
+Shan was an unimpressive ruler. He was accused, probably correctly, of
+being more interested in his harem and his personal pleasures than in
+the responsibilities of government, and he gave excessive power to his
+favourite Chen Zhi and the eunuch Huang Hao.
+
+Though he planned aggressive action, Jiang Wan had never presented Wei
+with a serious threat. His position as chief minister on the frontier
+was taken by Fei Yi, and when Fei Yi was assassinated by a renegade
+from Wei in 251 command in the north was given to the energetic
+general Jiang Wei. For the strategists of Shu-Han, an attack from
+Hanzhong eastwards down the river against present-day Henan, though
+tempting, was put out of consideration by the difficulty of retreat
+upstream if the invasion should be defeated. As a result, for the next
+ten years, Jiang Wei sought to break the line of the Qin Ling ranges,
+primarily through alliance with the non-Chinese Qiang. The men of Wei,
+however, consolidated their power with a program of agricultural
+garrisons, while the energies and morale of the people of Shu-Han were
+exhausted by the years of failure.
+
+In the 260s, after the Sima family had established control of the
+government of Wei, they planned the attack on Shu-Han. In the autumn
+of 263 they captured the passes into Hanzhong, and while one army held
+Jiang Wei in the northwest, the general Deng Ai went forward against
+Chengdu. In the winter, after victory in one pitched battle, he
+received the surrender of Liu Shan. There was a brief period of
+intrigue and confusion as Deng Ai was dismissed and then assassinated,
+while Jiang Wei and a rebel commander of Wei, Zhong Hui, sought to
+establish an independent position, but the plotters were killed, and
+in the summer of 264 Liu Shan was received into honoured exile at
+Luoyang.
+
+At the time of the surrender the population of Shu-Han was reported as
+280,000 households, 940,000 individuals, 40,000 officials, and 102,000
+men under arms. The registered population of Yi province under Later
+Han had been seven and a quarter million, and even the three
+commanderies about Chengdu had numbered more than 575,000 households
+with two and a quarter million individuals. In the Treatise of
+Geography of Jin shu, which preserves the figures for tax assessment
+some twenty years later, the population of the territory is just over
+300,000 households. This is compatible with the record of Shu-Han, and
+clearly indicates a quota system of taxation, rather than a decline in
+the number of people physically inhabiting the province. No government
+of this time was able to maintain the same level of control as had the
+local administrators of Han, and the nominal losses of population were
+much the same over all the divided empire.
+
+On the other hand, though the state of Wu had made some attempt to
+establish a structure of government which might echo the traditions of
+Han, Shu-Han appears to have had no more than the most basic civil
+administration. After the death of Zhuge Liang, the office of
+Chancellor was ended. Jiang Wan held his senior position with the
+title Marshal of State, and Fei Yi, head of government at Chengdu, was
+General-in-Chief, Intendant of the Secretariat and Governor of Yi
+province. Soon after Jiang Wan's death, Fei Yi moved to campaign
+headquarters in Hanzhong, and Jiang Wei, also with command in the
+north, became Intendant of the Secretariat. So the senior officials of
+the state held military titles, and were regularly engaged in war,
+while civilian matters at Chengdu were in the hands of Liu Shan and
+his favourites. In such circumstances, the administration of Shu-Han
+was that of a warlord regime, with emphasis on the recruitment and
+supply of troops and on the personal interests of the chieftain. There
+were, of course, clerical offices to support the work, but it was not
+a government for long-term planning and development.
+
+One effect of this limitation may be seen in the relationship of the
+government of Shu-Han with the lands of the south. When Liu Bei seized
+power at Chengdu in 214, he established the divisional office of
+Laixiang to administer the southern part of his territory, and the
+campaigns of Zhuge Liang of the mid-220s destroyed the non-Chinese
+alliance led by Meng Huo. It should be observed, however, that the
+settlement imposed on the defeated tribes by Zhuge Liang left the
+people under continuing control by their native leaders, and confirmed
+that power with seals and other emblems of authority. In formal terms,
+they were subjects of Shu-Han, but the records refer to several later
+rebellions in the southern commanderies, and although the people were
+brought under control without great difficulty, they did not add
+notably to the resources of the state.
+
+In this respect, we may contrast the policy of Shu-Han with that of
+Wu, where conquest of new territory was followed by firm colonisation
+and the establishment of new units for local control. While the number
+of counties in the territory of Wu had doubled during the century and
+a half between the census of Later Han and the register of Jin, in the
+territory of Shu-Han there was a net gain of just twenty percent, and
+there was no program of development.
+
+In sum, once Sun Quan had confirmed his hold on the middle Yangzi, the
+only areas of expansion for Shu-Han lay to the north and the south.
+Southwards, the government of Zhuge Liang and his successors contented
+themselves with a general authority, but they did not develop the
+human and material resources they had acquired. Instead, they
+concentrated their efforts upon the north and exhausted their limited
+strength in futile aggression. Shu-Han was founded as a warlord
+enterprise in a provincial state, and it never became anything more.
+
+Wei and the Sima family
+
+In comparison with Shu-Han, with Wu and with the Gongsun family of the
+northeast, the state of Wei established by Cao Cao must be regarded as
+effective successor to the fallen empire of Han. Apart from the
+formality of the abdication by Emperor Xian to Cao Pi in 220, Wei
+controlled the heart-lands of China and some seventy per cent of the
+formerly registered population. The achievement, of course, has been
+recognised by traditional historians, but there has also been long
+debate on the reasons for the failure of Wei to reunite the whole of
+the empire, and this has led to criticism of the state and its rulers,
+either for lack of enterprise or for lack of moral virtue. We have
+noted, however, that the increased population of China south of the
+Yangzi, and the military competence of the government of Sun Quan,
+made the conquest of that territory extremely difficult - and while
+Shu-Han in the west remained independent, the northern regime was
+faced with two substantial opponents who could not be eliminated
+quickly. Indeed, rather than criticising Cao Cao for not restoring the
+whole empire of Han, one should admire his achievement in successfully
+re-establishing government in the north.
+
+On all evidence, the break-down of imperial authority at the end of
+the second century AD was far more serious than it had been at the
+beginning of the first. At the simplest level of calculation, the
+earlier period of full civil war lasted only fifteen years, from the
+rebellion against Wang Mang in 22 to Emperor Guangwu's defeat of his
+last major enemy, Gongsun Shu in 36. In contrast, by 207, when Cao Cao
+had established full dominance over the Yellow plain, the structure of
+Han government had disappeared, the empire had been devastated by
+twenty years of turmoil, and later events would prove that control of
+central China no longer guaranteed control of the periphery.
+
+This political and military perspective partly concealed an important
+change in Chinese society. At the beginning of Later Han, the
+reunification of the empire had depended to some extent upon the
+support which Emperor Guangwu obtained from leading clans and local
+families, and the power of the government had been substantially
+limited by its political debts. In the two hundred years which
+followed, gentry control in the countryside grew steadily, with land,
+tenants, clients and armed retainers, and the authority of the court
+and the capital became proportionately weaker. The collapse of
+authority in civil war confirmed this development, and presented both
+the opportunity and the necessity for non-official organisations for
+self-protection.
+
+The problem facing Cao Cao was twofold: on the one hand, there were
+great numbers of refugees, driven from their homes by war and famine,
+and at the same time there were numerous local organisations which had
+taken responsibility for many of the people, and which offered a
+low-level competition for legitimacy and power. Many of these
+organisations, often described as "bandits" or "rebels" were formed
+amongst the peasants, and they sometimes took the form of clan
+groupings or religious associations. The great majority of
+dispossessed or uncertain people, however, gathered about some local
+magnate, and through this pattern of commutation the power of gentry
+clans, which had already been great under Later Han, came to dominate
+the local economy, society and administration. The restoration of full
+imperial power required not merely victory in war, but also the
+re-establishment or replacement of a system of government which had
+been growing steadily less effective for some two hundred years.
+
+At an early stage of the civil war, about 196, Cao Cao established a
+number of "agricultural garrisons" (tuntian) in the neighbourhood of
+Xu city, his chief headquarters. There was arable land nearby which
+had been abandoned by refugees and was available to the government,
+and it was sensible and appropriate that surplus people should be
+allocated the empty fields. The distinctive point about the new
+system, however, was that the farmers maintained a direct relationship
+with the government, that they were granted supplies and material
+assistance, and that they returned a regular share of produce to the
+imperial granaries and treasury.
+
+Traditionally, under the Han dynasty, a tax had been levied upon each
+subject's land-holding, while other government exactions, such as poll
+tax, civil corvee and military conscription or payment for
+substitutes, placed a heavy burden on the peasant farmer. The
+opportunities for corruption and confusion, and for false reporting
+and evasion, were very great, particularly since the bureaucrats
+responsible for the collection of the revenues tended to come from the
+land-owning families themselves. The new agricultural garrisons,
+through concentration upon sharing the yield, removed the need for
+surveys of the quantity and quality of the land, and by placing the
+peasants under the direct control of the government the system
+eliminated the influences of private interest.
+
+A good deal of debate took place before this policy on sharing
+production was determined. Since the government was providing the land
+and farming equipment, notably including oxen for the heavy work of
+ploughing, there were many who argued that the farmers should be
+required to pay a fixed rental, regardless of the value of the crop.
+Cao Cao's adviser Zao Zhi, however, argued that the government levy
+should be taken as a percentage of the yield, not as a fixed sum: the
+share-cropping system provided a steady incentive towards higher
+production, and although a fixed sum might appear more likely to
+produce a guaranteed return, it would still be necessary to reduce
+payments in time of poor harvest. This was agreed, and it appears that
+the government received 50% of the annual yield from the tenant of a
+garrison, or 60% when the oxen used were owned by the state.
+
+The first garrisons were set up under the administration of Ren Jun,
+close adviser to Cao Cao, who was appointed Commissioner for
+Agriculture with authority comparable to that of the head of a
+commandery, and the system was extended through many areas of Cao
+Cao's control. It was not, however, universally applied, and not all
+agricultural garrisons were set up directly by the central government.
+North of the Yellow River, it appears that there was regular household
+and land tax, with agricultural garrisons in only a few places of
+particular local need, and in the region of the Huai River the local
+commander Liu Fu organised a number of settlements which appear to
+have remained under the supervision of his office.
+
+Though earlier agricultural garrisons had been set up primarily for
+military purposes - and those established by Liu Fu were indeed
+established to maintain the frontier against Wu - Cao Cao's system was
+designed as much for the value of its civilian production as for
+military defence. Tenants of the garrisons were naturally expected to
+be able to protect themselves in time of emergency, and on occasion
+they could take part in major work on dams and canals, but they were
+not conscripted for general corvee labour, nor for military service -
+their function was to produce food, the sinews of war, and they were
+protected from any interference with that duty.
+
+As a means of physical and political resettlement, the agricultural
+garrisons were remarkably successful, for they confirmed Cao Cao's
+control of the ground and gave the migrant peasants a new commitment
+to the regime which had sponsored them. Economically, the system
+deployed the resources of land and people on terms which provided
+regular supplies for government and the army. Comparatively speaking,
+however, the production of the agricultural garrisons was only a
+fraction of the resources of the Cao Cao's territory, and it was still
+necessary for the new regime to establish formal links of authority
+and service with the many local centres of power. It was in these
+circumstances that Cao Cao began the system of appointments by Nine
+Ranks and Categories (jiupin) and when Cao Pi succeeded his father in
+220, the structure was established in the state of Wei.
+
+Traditionally under Han, recruitment into the imperial service had
+been through recommendation of a candidate, generally followed by a
+period of probation at the capital, and then appointment to
+substantive office. The majority of recommendations had been made in
+the form of "Filial and Incorrupt" (xiaolian) by the administration of
+the commandery to which the candidate belonged. Theoretically, the
+judgement of a nominee's worth was made on the basis of his local
+reputation, confirmed where appropriate by supervision at court. By
+the end of Han, however, through their natural alliance with peers and
+colleagues in local government, selection had come largely into the
+hands of the local gentry, and the program was rather a source of
+influence for great families than a reliable means of obtaining
+servants for the state. Under the stress of civil war, moreover, the
+system had broken down entirely, and Cao Cao was compelled to seek
+some other means to recruit men of ability without encouraging the
+existing tendencies to local authority and separatism.
+
+Formally, the new system echoed the old principles of choice based
+upon local reputation, "nomination from the district and selection by
+the village", and those who were put forward had their characters
+described in terms similar to those of the "pure judgements"
+fashionable among scholars and gentlemen in the later years of Han.
+Despite this air of legitimate tradition and honest reform, however,
+such a system in practice could only confirm the opportunity for local
+men of power to influence the recommendations.
+
+To guard against self-serving, corrupt and false nominations, the
+central government of Wei appointed Rectifiers to each commandery,
+officials whose duty was to assess the quality of the candidates for
+office, and to grade them in terms of suitability and potential. In
+this respect, they carried out one of the functions of a Grand
+Administrator under Han, but there were two notable differences:
+firstly that these officials were specialists in such judgements,
+acting as censors for local nominations and secondly that whereas in
+Han times senior local officials were deliberately appointed to hold
+office outside their home country, the Rectifiers were required to
+supervise their own native territory. They were, however, commissioned
+from the capital, and it was hoped that they would act rather as
+informed agents of the state than as representatives of purely local
+interests.
+
+The judgement of the Rectifiers was expressed by allocation of each
+candidate to one of nine categories, backed by a summary description
+of his character. In similar fashion, all offices in the empire were
+graded into nine ranks, although there was no necessary correlation
+between the category of an official and the rank of his current
+office. The category was rather a judgement of potential, and men of
+the highest category were regarded as eligible for appointment to the
+highest positions.
+
+Though there were a number of subordinates to assist the Rectifiers in
+their work, and some senior officials with different titles were
+established at provincial level, there were frequent complaints that
+the officers were over-extended, so they could not make full
+investigation of the multitude of candidates. Predictably, there were
+also accusations of favouritism, many of them justified, and in
+practice it appears that the system became the means by which men of
+good family entrenched themselves in power. In a celebrated memorial
+presented during the early years of Western Jin, Liu Yi criticised the
+arbitrary power of these officials, claiming that:
+
+there are no men of humble family in the highest categories, nor do
+any representatives of powerful clans appear among the lower ranks.
+
+And the modern Japanese scholar Tanigawa Michio has observed that:
+
+it was the aristocratic stratum in the Six Dynasties which...
+established itself as a ruling class. The most concrete, structural
+manifestation of their institutionalization was the Nine Ranks
+recruitment system for the bureaucracy.
+
+The system had been designed to satisfy the claims of leading local
+families to a role in the government, but to maintain some control
+over the full exercise of their influence. In the long term, given the
+power of the great clans, the attempt was doomed to failure, and the
+state of Wei remained vulnerable to the ambitions of its mighty
+subjects.
+
+There was, in this respect, critical disagreement between the new
+regime of the Cao family and the ambitions of other great clans in the
+reconstituted empire. While men of good family looked naturally for a
+continuation of the processes which had developed under Han, with
+increasing autonomy for their local interests and power, Cao Cao and
+his associates sought the restoration of good order through strong
+central government, with laws and administration which would bring an
+end to the weakness and disorder that bedevilled the last century of
+Han. In summary terms, while the government of Cao Cao looked for a
+"Legalist" or "Modernist" solution to the political crisis, their
+leading subjects were concerned with the status and power of their
+families, justified by a "Confucian", "Reformist" morality.
+
+The authority and legitimacy of the state of Wei was based upon
+success in civil war and a special relationship with the tradition of
+Han. Through more than twenty years, Cao Cao developed a parallel
+administration whereby he himself held nominal position as chief
+servant of the dynasty, but also maintained a separate administrative
+and military structure under his own command. When his son and
+successor Cao Pi received the abdication of Emperor Xian of Han and
+took the imperial title for himself, it was indeed generally accepted
+that the Mandate of Heaven had changed, and that the power of Earth,
+represented by the colour yellow, had succeeded to the Fire and red of
+Han.
+
+Besides its military strength, and the mystical authority which could
+be claimed from Han, the new regime enhanced its position with the
+outward signs of power and prosperity. The three chief cities, Luoyang
+which had been the capital of Later Han, Xu city the residence of
+Emperor Xian, and Ye city the former headquarters of Yuan Shao, now
+centre of the administration of Wei, were each restored and adorned
+with monuments. In 212, when his Copper Bird Terrace on the walls of
+Ye city was completed, Cao Cao had his sons celebrate the occasion by
+composing a rhapsody. His third son Cao Zhi, then ten years old,
+wrote:
+
+On a pleasure-tour with the brilliant ruler,
+
+we climb the storied terrace with feelings of delight
+
+We see all the palace stretched out below,
+
+and we gaze upon the works of wisdom and virtue:
+
+He has raised great gates like rugged hills,
+
+he has floated twin turrets into the clouds,
+
+He has built a splendid tower to reach the heavens,
+
+he has joined flying bridges to the western walls.
+
+We look down to the long thread of the Zhang River,
+
+we look out to the flourishing growth of the orchards
+
+We lift our heads to the gentle majesty of the spring breeze,
+
+and we hear the competing cries of a hundred birds.
+
+The heavenly work is established firm as a wall,
+
+the wishes of our house are brought to fulfilment,
+
+Good influence reaches all the world,
+
+and every respect and reverence is paid to the capital
+
+Though the hegemons of the past were magnificent,
+
+how can they compare to your wisdom and virtue?
+
+Cao Cao was impressed, and the theme and the author symbolize two
+notable aspects of the state of Wei. Though the rhapsody is not one of
+his finest works, Cao Zhi is admired as one of the greatest poets of
+China. Cao Cao himself was skilled in both poetry and prose, his
+eldest son and heir Cao Pi had real ability as a composer and scholar
+of literature, and Cao Pi's son Cao Rui was also respected as a poet.
+
+This succession of talented rulers, moreover, gathered and sponsored a
+host of poets, writers and scholars, respected and admired in their
+own time and in subsequent generations, who gave an intellectual
+splendour to what might otherwise have been no more than a military
+government. The details of their achievement must be analysed
+elsewhere, but we may recognise that the abilities of the Cao family,
+in association with such men as Wang Can and the other Masters of the
+Jian'an reign period, represent a flowering of culture which is one of
+the glories of early Chinese civilisation, and the leadership of the
+new government was strengthened by this gathering of distinguished men
+at court.
+
+As for any state developed in such a time of crisis and continuing
+tension, the structure of power at the centre of Wei was by no means
+certain or secure. By good fortune, Cao Cao lived to the age of
+sixty-five, and Cao Pi his eldest son, succeeded him as a mature man
+of thirty-four. There had been, however, some question whether Cao
+Zhi, third son of Cao Cao, might not have been named his successor,
+and the second son, Cao Zhang, a competent and experienced military
+commander, held some hopes for himself. One reason Cao Pi arranged to
+receive the imperial title from Emperor Xian so soon after his
+father's death was to confirm his position at the head of the
+government.
+
+Moreover, Cao Pi also removed his brothers and half-brothers from any
+further possibility of threat or rivalry. They were swiftly despatched
+to the territories of their nominal fiefs, they were kept under
+constant observation, and they were transferred, demoted, or restored
+in title at frequent intervals. Very occasionally, they were permitted
+formal visits to the capital, but they were not allowed any place in
+the government.
+
+This firm isolation of the emperor's male relatives remained an
+established policy of Wei, and it reflected the practice of Han. Cao
+Pi, however, considering the troubles which had beset the imperial Liu
+family through the involvement of great families of relatives by
+marriage, also ordered that the empress-dowager should have no
+involvement in government, and no member of the clan of an imperial
+consort should hold position as a regent. The Lady Bian, dowager of
+Cao Cao and mother of Cao Pi, was a former sing-song girl, the Lady
+Guo, chosen Empress of Cao Pi, came of minor gentry stock and had at
+one time been a servant, and the father of Cao Rui's first Empress Mao
+had been a yamen runner. It seems very probable the latter two
+consorts were deliberately chosen from families which could offer no
+rivalry to the Cao family. The policies of exclusion, one old and one
+new, removed two sources of potential disturbance from the court, but
+they also deprived the imperial lineage of some prestige and political
+support, and compelled the ruler to rely chiefly upon cadet branches
+of the family or other clans allied through marriage to princesses.
+
+The effect of the new system was shown in 226, when Cao Pi died at the
+age of forty. His eldest son Cao Rui, twenty-two years old, came to
+the throne as an adult, but four regent advisers were appointed for
+him: the minister Chen Qun, the generals Cao Zhen and Cao Xiu, who
+were distantly related to the imperial family, and the general Sima
+Yi. In practice, the new emperor was permitted to manage affairs for
+himself, but the combination of guardians reflected the balance of
+influence which supported the throne. Within a few years, moreover,
+Cao Zhen, Cao Xiu and Chen Qun were dead, and Sima Yi was the senior
+minister and military commander of the empire.
+
+The Sima family were a respected, old-established, and wide-ranging
+family from Henei commandery. Sima Yi's elder brother Sima Lang had
+joined Cao Cao early in the civil war, and Sima Yi, who first held
+office at the puppet court of Han, followed him in 208 and served on
+the staff of Cao Cao's headquarters. In 217 he became a member of the
+suite of Cao Pi as Heir Apparent, and he was evidently a personal
+friend. When Cao Pi came to the throne, Sima Yi received steadily
+higher appointments, and in 224 and 225 he was left in charge of
+domestic affairs while the emperor took the field against Wu.
+
+A few months after Cao Pi's death in 226, Sima Yi took command in the
+field for the first time, driving back a secondary attack of Wu
+against Xiangyang, and in the following year he was given
+responsibility for military affairs on the Han River. Although he was
+in his late forties, and his previous experience had been civil and
+administrative, he proved to be an energetic and competent general,
+and during the next ten years he held command in the south against Wu
+and in the west against Shu-Han.
+
+In 238 Sima Yi was recalled from his headquarters at Chang'an to take
+command of an offensive against Gongsun Yuan of Manchuria. In a swift,
+powerful campaign he brushed aside Gongsun Yuan's defences on the Liao
+River, captured his capital Xiangping, and exterminated the warlord
+government. So the northeast was brought into the domain of Wei, and a
+further series of campaigns in 244-245, under the general Guanqiu
+Jian, broke the power of the non-Chinese state of Koguryo and removed
+any immediate threat from that region of the frontier. The Chinese
+military position in the northeast was now the strongest it had been
+since the time of Emperor Wu and Former Han, and its political
+authority is reflected in a series of embassies which came to the
+court of Wei from the Japanese female ruler Pimiko.
+
+In 239, at the age of thirty-five, Cao Rui died. He had no sons of his
+own body, and his adopted successor was a seven-year-old boy, Cao
+Fang, who was surely a close member of the imperial family, but whose
+exact parentage was officially unknown. Cao Rui had replaced the Lady
+Mao with a new Empress, the Lady Guo, a woman of respectable family,
+but in accordance with the policy of Cao Pi her relatives were kept
+from power. For a time Cao Rui contemplated a council of regency which
+would be dominated by members of the imperial lineage, but he was
+finally persuaded to nominate only two men: Cao Shuang, son of the
+former regent Cao Zhen, and Sima Yi.
+
+From the beginning of the joint regency, chief power at court was in
+the hands of Cao Shuang. Sima Yi was given the honourable title of
+Grand Tutor, but he was not encouraged to play any substantial role,
+and he concentrated rather upon military enterprises. Unlike his
+father and grandfather, Cao Rui had taken no part in military affairs,
+Cao Fang was still too young to do so, and Cao Shuang recorded only a
+single unsuccessful campaign against the frontier of Shu-Han. Sima Yi,
+in contrast, was a distinguished commander, with wide support in the
+army and among men of good family outside the circle of the court.
+
+In the cultural history of China the Zhengshi reign period from 240 to
+249, the time of Cao Shuang's regency, is a moment of intellectual
+brilliance when the tradition of Confucianism, almost exhausted by the
+sterilities of Han, was revived for a time under the influence of
+Taoism and in particular by association with xuanxue, "The Study of
+the Mysteries." Among the leaders of this intellectual trend were He
+Yan, a close associate of Cao Shuang, and his friend Wang Bi, one of
+the greatest interpreters of the Yi jing )v8g the Book of Changes.
+
+The social attitudes and personal conduct of this group of
+intellectuals and scholars, however, though fitting with the freedom
+of their philosophical attitudes, did not win wide approval or
+respect. He Yan, son of a concubine of Cao Cao, was elegant and
+arrogant, a scholar of the Laozi, brilliant in the repartee and
+dialectic of "pure conversation" (qingtan). Under Cao Shuang, as a
+member of the imperial secretariat, he had considerable influence on
+official appointments, and brought many of his colleagues to court. He
+had a reputation, however, as a libertine, and he and his associates
+were devotees of the ecstatic drug known as the Five Minerals Powder.
+
+In many respects, the attitude of He Yan and his friends was
+comparable to the ideal of "spontaneity" and going "beyond the bounds"
+which was followed by their contemporaries Ruan Ji, Xi Kang and other
+Sages of the Bamboo Grove. These men, of good background and great
+talent, represented a movement which sought to avoid meaningless
+formality, and which deliberately opposed the traditions accepted by
+standard Confucianism. The attitudes of He Yan and his associates can
+be readily understood in the context of the society of their time, but
+their conduct was exaggerated both in reality and in the propaganda of
+their enemies. In political terms, He Yan appears to have been the
+only member of the group interested in substantial office, but Cao
+Shuang and all the court were affected by his reputation. In the
+earlier years of Wei, the literary life of the capital added lustre
+and authority to the new regime. Now, in a sad reversal, the excesses
+attributed to He Yan and his clique became an embarrassment, and Sima
+Yi was able to present himself as the representative for men of good
+family who sought Confucian reform, morality and restraint in politics
+and society.
+
+In 247 Cao Shuang and his associates introduced a number of
+administrative and legal changes to enhance the central power which
+they controlled. Sima Yi pretended illness and ostensibly retired from
+public life, but at the beginning of 249, as the emperor and Cao
+Shuang were on a visit to the dynastic tombs outside Luoyang, Sima Yi
+gathered troops for a coup detat, seized the cortege and massacred Cao
+Shuang, his colleagues and their kinsmen. From this time on, the state
+of Wei was in the hands of the Sima family.
+
+In 251, two years after the coup, Sima Yi died, leaving his position
+to his eldest son Sima Shi, then forty years old. Sima Shi embarked on
+a series of raids and campaigns against Wu and against the non-Chinese
+people of the north, but he achieved no breakthrough, and by 254 the
+emperor and supporters of the Cao family were threatening his
+authority. Sima Shi, however, struck first, deposed Cao Fang, and set
+his cousin Cao Mao on the throne in his stead.
+
+In the following year, 255, the general Guanqiu Jian and other
+supporters of the dynasty seized the city of Shouchun and asked for
+help from Wu. The southerners, however, were unable to provide
+assistance, and Sima Shi destroyed the rebels. Soon afterwards, on 23
+March, Sima Shi died, but he was succeeded by his younger brother Sima
+Zhao, and the power of the clan was not interrupted. In 257 another
+general of Wei, Zhuge Tan, rebelled at Shouchun and also sought
+support from the south, but the city was recaptured in the following
+year and the northern hold on the line of the Huai River was
+confirmed.
+
+In 260, there was one further conspiracy to preserve the dynasty, in
+which the twenty-year-old Emperor took a leading role, but it was
+defeated in a short skirmish, and Cao Mao was killed in the fighting.
+He was replaced by the last in the line of puppets, Cao Huan, and Sima
+Zhao could now concentrate upon the conquest of Shu-Han. By 264
+victory in the west was complete, and Sima Zhao took title as King of
+Jin. In the autumn of the following year Sima Zhao died, but he was
+succeeded by his eldest son Sima Yan, then thirty years old. That
+winter, on 4 February 266, in form reminiscent of Cao Pi's accession
+years before, Sima Yan received the abdication of Cao Huan and took
+the imperial title for himself.
+
+So the final triumph of Wei over Shu-Han was also the occasion for the
+overthrow of the Cao family and its replacement by the Jin dynasty of
+Sima Yan. The victory could perhaps have come earlier, for the
+northern state was always more powerful than its rivals, while
+Shu-Han, after the death of Zhuge Liang, did not maintain an effective
+government, and Wu also suffered dissension after the long reign of
+Sun Quan. In similar fashion, however, the weakness of the central
+government of Wei after the death of Cao Pi, and the conflict which
+accompanied the rise to power of Sima Yi and his family, prevented the
+government from taking proper advantage of the disorder in its rivals'
+camp.
+
+Even before the conquest of Shu-Han, however, the record of Wei was
+impressive. In the northeast, Cao Cao had broken the Wuhuan
+confederacy, Sima Yi conquered Gongsun Yuan, and Guanqiu Jian
+destroyed Koguryo and extended Chinese authority well beyond the
+frontier. In the west, Cao Cao had settled the Wei River valley by his
+victory at Huayin, Cao Pi received embassies from central Asia and
+re-established some form of protectorate, and Xu Miao the Inspector of
+Liang province confirmed control in the region south of the Ordos.
+
+The restoration of imperial frontiers along the north, however, was
+limited by weaknesses in the Chinese position which had developed
+earlier, and by a natural lack of confidence on the part of the
+central government in the distance over which it could exercise
+control. In this respect, though Gongsun Yuan in Manchuria had
+established considerable authority beyond the frontiers of Later Han,
+and the campaigns of Guanqiu Jian destroyed the power of Koguryo, Sima
+Yi did not build upon that achievement, but encouraged and enforced
+the withdrawal of Chinese settlers. The military campaigns in the
+northeast had been pursued with energy, but the net result was a
+vacuum on the frontier, with opportunity for non-Chinese peoples,
+notably the Murong clan of the Xianbi, to develop an independent
+position.
+
+More generally across the north, rebellion, warfare, raiding and a
+resultant emigration had removed great expanses of territory from the
+control of Later Han, and Cao Cao and his successors were compelled to
+accept the realities of the situation. Cao Cao brought the last Shanyu
+of the Southern Xiongnu as a hostage to his court, and established a
+notional administration of five divisions for those Xiongnu who
+acknowledged Chinese suzerainty. There was, however, no attempt to
+restore a Chinese presence on the ground, and the government of Wei
+had effectively abandoned all claim to the region beyond the Ordos and
+the Sanggan River. By good fortune for China, neither the Xiongnu nor
+the Xianbi, who now competed with them for dominance in the steppe,
+were sufficiently well organised to offer any immediate threat, and
+they were hampered by their own confusions and by some well-placed
+Chinese intrigue. The lack of a strong imperial position, however,
+left the several groups and tribes largely free to develop their own
+interests and power for the future.
+
+Nonetheless, in formal terms the government of Wei had been remarkably
+successful, and the re-establishment of authority in the north laid
+firm foundations for the conquest of Shu-Han and Wu. The full
+unification, however, was achieved by the Sima family, and apart from
+arguments of loyalty and legitimacy, their reward was not
+inappropriate. Cao Cao and his son had obtained their authority from a
+combination of military ability and a splendid state, but after the
+early death of Cao Pi, Cao Rui had not taken firm command of the army.
+For a dynasty of marginal lineage, still close to its military
+origins, this was already a risk, and the suspicions of other clans
+for any tendency to limit their local power were only enhanced as the
+government sought to demonstrate authority through display rather than
+reality. In the end, the leaders of the political community were
+prepared to support the virtues and achievement of Sima Yi and his
+sons, men whom they could identify with their own background and
+interests, against an imperial family perceived increasingly as being
+of poor character and lineage, lacking the true prestige of
+government, and without sympathy for the real leaders of the
+community. The new regime of Jin would reflect their interests far
+better.
+
+PART 3: The Empire of Western Jin (265-317)
+
+The Unification of China (265-280)
+
+When Sima Yan received the abdication of Cao Huan and proclaimed his
+own empire of Jin, the formal ceremony was merely the culmination of a
+process by which his family had seized control of the affairs of the
+state of Wei. Sima Yan's accession followed closely upon the
+triumphant conquest of Shu-Han, while the court of Wu was in turmoil
+and faced rebellion in the far south. With apparently overwhelming
+strength, and the energy of a new regime, there was reason to expect
+that the power of Jin would be swiftly turned against the south of the
+Yangzi and the unification of the Chinese world would soon be
+completed. In fact, however, Sima Yan and his advisers were uncertain
+of their position, and they were reluctant to embark upon another
+great campaign.
+
+The policies and structure of Jin reflected the origins of the Sima
+family power and the convictions with which they had seized it. The
+Sima had obtained support because they were seen as representatives of
+the great clans against the Cao family, and it is fair to assume that
+Sima Yi and his successors believed their position was correct and
+honourable. Though the political opponents of the imperial government
+of Wei sought their own interests, they identified those interests
+with a true morality, and they regarded themselves as men of
+traditional "Confucian" virtue, contending against an authoritarian
+centralism identified with "Legalist" principles. In this respect one
+may discern a renewal of the debate, identified by Loewe for the Han
+period, between "Reformist" and "Modernist" approaches to imperial
+government, and the policies of the Sima reflected a concern for a
+structure of government and society which would give proper respect to
+men of quality.
+
+So the Sima, unlike their predecessors the Liu and the Cao, were
+committed to a position as chief amongst other noble clans, and by
+both politics and philosophy they were reluctant to claim the full
+authority of the imperial throne.
+
+On the other hand, it was still necessary to run a government, and
+Sima Yi, Sima Shi, Sima Zhao, and Sima Yan had, each in turn, showed a
+capacity for firm action. Moreover, in contrast to the policies of Han
+and Wei, since the rulers of Jin regarded the state as an extension of
+their family, they had no hesitation in relying upon their brothers
+and cousins. The day after he took the imperial title, Sima Yan
+enfeoffed twenty-seven of his relatives as princes, and these princes
+were maintained in positions of power. Two of the eight senior
+ministers were members of the imperial clan, several princes served as
+Area Commanders and provincial Inspectors, with substantial local
+authority, and all were given responsibility for the administration of
+their fiefs. The Wei dynasty of the Cao had fallen into alien hands
+because the emperors lacked the support of their own relatives, but
+the Sima had gained their position through appointments granted within
+the family, and the Jin dynasty would not be so defenceless.
+
+At the same time, however, if the Sima were prepared to rely so
+heavily upon relationship and personal loyalty, it was difficult for
+the emperor to enforce the authority which had been claimed by the
+earlier dynasties. The Han dynasty, moreover, had developed its
+legitimacy over centuries, and the Wei had acquired their power
+through conquest, but although Sima Yi and his relatives had played a
+notable role in the military affairs of the state, their main route to
+the throne had been through political intrigue and coups d''etat. As a
+result, the power of the Jin government was restricted, and for some
+years there remained a sense of uncertainty regarding its competence
+and its right to rule.
+
+Sima Yan evidently felt he could not afford to risk an immediate
+attack on Wu, for the consequences of a set-back or defeat could have
+been disastrous for his prestige and even for his new regime. Though
+Jin now controlled the Sichuan basin, the years of bitter conflict
+against Shu-Han, and the hostility that remained among the defeated
+enemy, meant the resources of that region could hardly be mobilised
+quickly, and the strategic defences of Wu along the Yangzi appeared
+secure.
+
+There was trouble, moreover, with the non-Chinese people of the
+frontier, particularly in the northwest between the Wei River and the
+Ordos. Years earlier, when the Wei general Deng Ai was engaged in the
+Wei valley, he had forced the surrender of a group of Xianbi and
+brought them into Qin province, newly-established on the upper Wei. By
+the late 260s, however, under the leadership of the chieftain Jifu
+Shujineng, these immigrants were causing trouble. A special command
+was set up in 269, but in the following year a local Chinese army was
+destroyed, and another shared its fate in 271. In response to this
+sign of weakness the Xiongnu leader Liu Meng rebelled and raided the
+territory further north, and although he was killed in 272 the unrest
+remained. Eventually, in 279, when Jifu Shujineng was killed in
+battle, the remainder of the Xianbi surrendered and the region was
+restored once again to some form of control.
+
+By this time, the state of Jin was sufficiently well established for a
+serious attack against the south. There had been no substantial
+break-through on the line of the Yangzi, but the government of Wu was
+consistently on the defensive, and Sun Hao was losing both support and
+confidence. There was still uncertainty among the advisers of Sima
+Yan, but the forward policy had long been argued by the senior general
+Yang Hu, commander on the Han River, and the project was taken up by
+his successor Du Yu and the minister Zhang Hua.
+
+The essence of the plan was to outflank the position of Wu by an
+invasion from Sichuan. While Sima Zhou led a direct attack southwards,
+Wang Jun the Inspector of Yi province prepared a great fleet and
+sailed through the Yangzi Gorges, breaking the river barriers and
+opening the way for the regular troops of Jin to advance down the Han
+and across the Huai. The campaign began in the spring of 280, and by
+the third month the combined forces of the invaders were at the walls
+of Jianye. On 1 May 280, deserted by his last troops, Sun Hao came to
+the camp of Wang Jun and handed over his seals and insignia to Sima
+Zhou.
+
+Settlement of the empire (280-290)
+
+In 264, at the time of the conquest of Shu-Han, a decree of the
+government of Wei under the control of Sima Zhao abolished the
+separate administration of government agricultural garrisons "in order
+to equalise the corvee services". The officials in charge were
+transferred to the regular hierarchy of commanderies and counties, and
+the court of Jin confirmed the policy two years later.
+
+This pair of edicts did not eliminate all agricultural garrisons, but
+it did represent a reduction in central control over those substantial
+assets of labour and land, and the change reflects a weakening of the
+government's position against the powerful families to whom the Sima
+owed their accession to the throne. There is considerable debate on
+the manner in which the nature and the function of the garrisons had
+been subverted, whether by the encroachment of local gentry and
+officials who took the people and the land under their own control, or
+by the excessive demands made upon the colonists by competing local
+and central interests, but there is no doubt that the centralising
+policies of the early state of Wei, expressed particularly through
+government access to the special resources of the garrisons, were now
+largely abandoned. Because of their contribution to military
+operations, the garrisons were maintained in form during the next few
+years, but they held only a limited role in the future economy of the
+state. After the conquest of Wu, when the major need for military
+expenditure and energy was passed, the system of agricultural
+garrisons was subsumed into the general land system of the empire.
+
+As on other occasions in Chinese history, the reunification of the
+empire left the victorious government with serious problems of
+disarmament and reconstruction. The situation had not been so urgent
+at the time of the conquest of Shu-Han, for there still remained the
+rival and powerful state of Wu, and surplus troops could be
+transferred to serve on that front. In 280, however, apart from the
+general defence of the north, there was no need for more than local
+garrisons, and there remained a great number of soldiers and their
+families, many of them maintained in service for generations, who
+should now be settled into productive work. There was room for
+resettlement along the old frontier with Wu, between the Huai River
+and the Yangzi and on the lower reaches of the Han, there were other
+regions which had not been fully occupied or exploited in the years of
+war, and abolition of the agricultural garrisons allowed a
+re-assessment of their land.
+
+In these circumstances, the government of Jin established a system of
+land allocation (ketian), based upon the entitlement of each
+individual in the farming community. The basic unit was fifty mou,
+which was the amount allocated to a "regular" male, aged between 16
+and 60 years. A "secondary" male, aged between 13 and 15 or 61 and 65,
+received half that amount, and a regular female received twenty mou.
+Those older or younger received no allocation. Though it is unlikely
+the system could have been maintained on a regular basis, it served as
+the formal basis for resettlement and reconstruction of the
+countryside in the years after the unification of the empire.
+
+As corollary to the allocation of land, and reflecting a policy
+established by Cao Cao, founder of Wei, taxes were levied on each
+household: one which was headed by a regular male was required to pay
+three pi of silk and three jin of silk floss, and one which was headed
+by a female or secondary male paid half that amount. In this regard,
+an allocation of tax against each household was markedly easier to
+administer than the Han system based upon land or the poll-tax, for it
+did not require such a detailed survey or census and the assessment in
+kind reflects a continued decline of the use of coinage.
+
+There had been currency and inflation problems throughout Later Han,
+but when the government of Dong Zhuo replaced the traditional wushu
+coinage with smaller units at the beginning of the civil war, it
+brought a collapse of the money economy. Cao Cao and his son Cao Pi
+both attempted to restore the currency, but in 221 the government of
+Wei formally declared that grain and silk should be the official means
+of exchange. Though the wushu coins were later revived again, and were
+maintained in circulation by the government of Jin, the official
+economy still relied upon commodity exchange.
+
+One effect of the years of disturbance had been a decline in private
+commerce, and a more limited pattern of trade than in the time of Han.
+The great landed estates, concerned primarily with their own
+self-sufficiency, concentrated economic activity into small local
+areas, and numbers of people came to take service with them. In some
+cases, as we have seen, these followers came voluntarily for
+protection others had been called up in an officially-sponsored
+conscription, and then had their allegiance transferred gradually to
+their individual commander and the same process took place as the
+government agricultural garrisons were broken up to the advantage of
+private interests. Despite official programs for settlement, numbers
+of people failed to receive any allocation of land, while others found
+the protection of a powerful magnate more attractive and secure than
+the risks of individual enterprise and the demands of taxation.
+Throughout the countryside, individual land-owners were able to deal
+with their tenants and dependents in a system of barter and exchange
+of service, and it was difficult for any government agency to obtain
+information or to enforce their demands. Taxation and other levies
+were obtained rather by negotiation on the basis of quotas than by
+formal assessment of value and obligation.
+
+In an attempt to control this expansion of great land-holdings and
+their dependences, the imperial administration promulgated a law of
+land registration (zhantian). In theory, at least, the system provided
+that each individual should register his land with the government,
+paying tax on the amount involved, but receiving good title in return.
+As an extension of this measure, the system sought to limit the size
+of land-holdings throughout the empire, proclaiming that each male was
+entitled to seventy mou and each female thirty. There appears,
+however, no restriction of age or family status, so children and old
+people could contribute to the legal entitlement of their family. It
+has been observed that under this system a husband and wife together
+would have an allowance of one hundred mou, the basic figure in the
+well-field system described by Mencius. Searching for reforms to solve
+the problems of the time, and observing the excessive land-holdings
+and the extending power of the great families, several writers of
+Later Han proposed the restoration of this ideal, and Sima Lang had
+suggested the scheme to Cao Cao, founder of Wei, without success.
+Given the interests and strength of the opposition, a policy of equal
+distribution had not been practicable in the past, and it was all the
+less so now.
+
+Unlike the ketian, which probably represented a real program of
+allocation, usefully carried out in some regions, the zhantian was no
+more than an attempt to establish the principle that each person was
+entitled to registered possession of a certain amount of land, and any
+excess was subject to ultimate control and possible confiscation. The
+system was not intended for immediate operation, but represented a
+policy which might be enforced at some later time.
+
+Even this, however, was optimistic, for the government was compelled
+to accept the right of nobles and officials to hold land in addition
+to the regular allocation and, most importantly, there was no way to
+control the numbers of client families who had attached themselves or
+had been taken into service by powerful clans. In partial recognition
+of the situation, the Jin allowed privileged and official families to
+"protect" a limited number of retainers and tenants. As with the land
+registration, the government evidently hoped that if it gave formal
+recognition to the existence of these clients it would thereby
+establish some principle of authority, and the situation could be
+brought under control later. Given the political support which the
+Sima family required from the great clans, however, and considering
+the fact that the officials administering the restrictions were
+themselves either members of such families or readily intimidated by
+their local power, there was never great likelihood that the imperial
+government would be able to enforce its writ against the wishes and
+interests of its powerful subjects.
+
+One may see the signs of weakness in records of population. The
+Treatise of Geography in Jin shu presents only rounded and summary
+figures for the numbers of households in each administrative area, no
+way comparable to the two Han histories, which give figures for both
+households and individuals. Moreover, where the Later Han records
+about 140 A.D. have a total population for the empire of 9.7 million
+households and almost fifty million individuals, the Jin figures about
+280 have only 2.5 million households and sixteen million individuals,
+one-fifth of the numbers under Han.
+
+Though the years of civil war had certainly taken a toll in the
+heart-land of China, and brought a dramatic decline along the northern
+frontier, we have also observed the remarkable development of
+colonisation in the area south of the Yangzi formerly controlled by
+Wu. The population of China may have declined since the time of Later
+Han, but the loss was certainly not so great as the figures would
+indicate. Bielenstein has shown that the numbers of households given
+by Jin shu for each commandery represent a taxation list, not a true
+census. They may indeed be best understood as a series of quotas,
+indicating the assessed value and obligation of each unit, with no
+more than incidental relationship to the true population in each area.
+As to the numbers of individuals, we have seen how the records of the
+surrendered states of Shu-Han and Wu present far lower figures than
+those of the same area recorded by Later Han, and the total given by
+Jin shu follows the same pattern. It must be assumed that these
+reported the people under direct control of the administration for
+corvee or conscription, while the remainder of the population
+contrived to avoid such levies, either by keeping at a physical
+distance from government agencies or, very frequently, by sheltering
+under the protection of great families. In practice, the governments
+of the rival states, and the empire of Jin which succeeded them, had
+only limited access to the resources which they nominally controlled.
+The problem, moreover, was not just a question of administrative
+energy and competence, for the growth of economic and political power
+among the landed families, already established during Later Han, had
+accelerated in the years of turmoil, and there was now no meaningful
+machinery by which a government might restore the authority of the old
+empire.
+
+In these circumstances, unable to establish full control over the
+empire, the Jin were compelled to make use of their family
+connections. During the years of conflict, contending warlords and
+governments had roughly maintained the Han structure of local
+administration, based upon provinces, commanderies and counties.
+Because of the threat of mutiny and separatism, Inspectors rather than
+Governors had been appointed, and there had been varying policies and
+some debate on the granting of military responsibilities. From
+practice during the civil wars and under Wei, confirmed by Jin, a new
+pattern was developed whereby Inspectors were appointed primarily as
+civil officials, but another hierarchy, that of Area Commanders, was
+appointed above them.
+
+Classed in the second of the Nine Ranks, the same as ministers at
+court and generals of the army, Area Commanders had full military
+power within their territory, and their authority was dominant in the
+empire outside the capital. Moreover, in a clear demonstration of
+faith in family, the government of Jin entrusted members of the
+imperial Sima clan with a substantial number of these appointments,
+particularly along the northern frontier and in the North China plain.
+By contrast, the competent official Zhang Hua was removed from his
+post in You province of the northeast because of suspicion about his
+loyalty.
+
+So the government of China reunited under Sima Yan was still weak and
+ineffective in comparison with Han. It did not succeed in establishing
+control over its most powerful subjects, and on the other hand, as
+time passed, the generation of leaders who had given a personal
+loyalty to Sima Yan and his predecessors during the years of their
+rise to power gradually died out. To maintain its position, the court
+relied upon members of the imperial house who were established as
+long-term rulers with military power over substantial territories
+across the empire. It was a policy which had often been urged by
+scholars of the Confucian tradition, but it had been consistently
+rejected by Qin, Han and Wei. The Sima family of Jin now put it to the
+test.
+
+Empress Jia and the eight princes (290-306)
+
+Sima Yan, Emperor Wu of Jin, died on 16 May 290 at the age of
+fifty-five, and he was succeeded by his thirty-year-old son Sima
+Zhong, later known as Emperor Hui.
+
+Sima Zhong had been appointed Heir Apparent in 267, and in 272 he was
+married to the Lady Jia Nanfeng, daughter of the minister Jia Chong,
+an old supporter of the Sima family who had played a leading role in
+the fighting against Cao Mao in 260. Though there was a general
+anxiety, from increasing evidence, that Sima Zhong was mentally
+disabled and unfit to rule, Sima Yan maintained him as his heir and
+accepted the alliance with the Jia family.
+
+On this vital question, Sima Yan is said to have accepted the
+persuasions of his first empress the Lady Yang Yan, but the decision
+was not unreasonable. As the Lady Yang observed, to discard the senior
+son, even when he was not the most suitable, would open debate on
+other candidates, and this could easily develop into a general
+struggle for power. Sima Zhong, moreover, now had a son of his own,
+Sima Yu, born of the Lady Xie, one of Sima Yan's own concubines who
+had obtained his favour. In 290, Sima Yu was thirteen, and he was a
+young man of outstanding quality.
+
+Earlier, when the Empress Yang Yan was on her deathbed, she
+recommended that her cousin Yang Zhi should succeed her, and Yang Jun,
+father of the Lady Yang Zhi, acquired great influence with the
+Emperor. In his own last illness, Sima Yan sought to establish an
+interim administration to guide the dynasty until Sima Yu could take
+substantive power. He had an edict prepared that his senior uncle Sima
+Liang, son of Sima Yi by a concubine, should become the regent head of
+government jointly with Yang Jun, and he sent three of his younger
+sons into the provinces as area commanders: Sima Wei, was in Jing
+province, Sima Yun was in Yang, and Sima Jian was in the northwest.
+Military control of the provinces was thus almost entirely in the
+hands of the Sima family: Sima Wei, Sima Yun and Sima Jian controlled
+the south of the Yangzi and the northwest, the northern part of the
+North China plain was held by Sima Lun, also a son of Sima Yi by a
+concubine, and the territories south of the Yellow River were governed
+by Sima Lun's brother Sima Yong and his nephew Sima Huang.
+
+By accepting two empresses from the Yang clan, Sima Yan had
+established a powerful group of relatives by marriage, and he was also
+concerned about the ambitions of the Jia family. He evidently
+believed, however, that the authority he had granted Sima Liang, and
+the local powers of the princes, would be sufficient to ensure the
+position of the imperial house. In fact, his death brought immediate
+conflict.
+
+It was the Yang family that took the initiative. With the support of
+his daughter the Empress, Yang Jun suppressed the edict granting
+regent's authority to Sima Liang, and after Sima Yan died he took that
+power for himself. In fear of Yang Jun, Sima Liang made no effective
+response to the challenge, but fled from the capital and took up the
+position he had held earlier, as Area Commander in Yu province, based
+upon Xuchang. The Empress Jia, however, held no such inhibitions: on
+23 April 291 she organised a coup, with palace guards under her own
+command, to destroy Yang Jun, his family and their supporters. The
+Empress-Dowager Yang was deposed, and Sima Liang and the senior
+official Wei Guan were invited to take over the reins of government.
+
+Thus far, the Empress Jia could claim to have been acting in
+accordance with the wishes of her late father-in-law. The situation
+was confused, however, by Sima Wei, who returned from his appointment
+in Jing province and sought a role in the politics of the capital.
+With intrigue against his elder kinsman Sima Liang, he obtained
+approval from the Empress to remove him and Wei Guan, and on 25 July
+291, just three months after their appointment, the two men were
+assassinated. Almost immediately afterwards, on the advice of her
+minister Zhang Hua, the Empress Jia had Sima Wei arrested and executed
+on the charge of forging an imperial edict.
+
+With this last twist of treachery, the Empress Jia had gained full
+control of the capital, and for the next several years the highest
+positions at court were in the hands of her family and their
+supporters. For a time Sima Yong, recalled from the northwest, was
+given formal charge of the secretariat, but he had no real authority
+and in 296 he returned to his former territory. General administration
+was maintained by the veteran Zhang Hua and the youthful Pei Wei,
+while the empress' nephew Jia Mi held considerable influence at court
+and was a noted patron of leading men of letters.
+
+In many respects the period of Jia family dominance resembled the
+occasions in Han when consort families had acquired similar power over
+the government, and though the regime has been described as a
+usurpation, it was not incompetent. There were substantial problems on
+the frontiers, but they were coped with, and despite the military
+potential of their local powers the Sima princes appear to have
+accepted the destruction of Sima Liang and Sima Wei, and the somewhat
+cavalier treatment of Sima Yong, without great concern and certainly
+without taking action. In fact, the struggles at the capital had
+little effect upon arrangements in the provinces provided that the
+imperial title remained in proper hands.
+
+The situation was changed, however, dramatically and fatally, when the
+Empress decided to remove Sima Yu from his position as Heir Apparent.
+Sima Yu turned twenty in 297, and the time was approaching when he
+might seek authority of his own or become the centre of a dissident
+faction. He and Jia Mi, moreover, were clear enemies, and if the Heir
+Apparent came to the throne the future of the Jia faction was very
+uncertain. In February 300, therefore, Sima Yu was tricked into
+signing a treasonous letter, and the Emperor was persuaded to dismiss
+him. Three months later, on 27 April, the Empress Jia had the young
+man killed.
+
+Once again, this pattern of conduct may often be observed during Han.
+A consort family which had held regency powers was always in trouble
+when the true ruler came to maturity, and one side or the other would
+frequently resort to intrigue and bloodshed. The unfortunate Sima Yu
+had presented a comparable threat, and events followed a sad
+tradition. At this point, however, unlike Han, other members of the
+imperial clan were in position to defend their interests.
+
+At the time of Sima Yu's death, the two surviving sons of Sima Yi,
+Sima Yong and Sima Lun, were stationed at Luoyang. Sima Lun had
+transferred from Ji to Yong province, but in 296 he was recalled to
+the capital and was replaced by Sima Yong. Sima Yong, for his part,
+had lately been re-appointed to formal control of the imperial
+secretariat, and his place in the northwest was taken by his cousin
+Sima Yung. On 7 May 300 Sima Lun and his allies seized power at the
+capital. They imprisoned the Empress Jia, forcing her to commit
+suicide a few days later, and they killed Jia Mi, Zhang Hua, and Pei
+Wei. Sima Lun became Chancellor of State and appointed his relatives
+and supporters to the leading positions.
+
+In this respect, the policy of the Jin dynasty had been remarkably
+successful. Unlike the pattern of Han, the imperial family had been
+able to resist and destroy the over-ambitious consort group, and power
+was now returned to the Sima family. Despite Sima Lun's seniority in
+the clan, however, he was not himself popular, there was objection to
+his counsellor Sun Xiu, and it was claimed that he was acting without
+proper authority. In the autumn of 300, Sima Yun attempted a coup
+against Sima Lun, but was killed in the skirmishing which followed.
+Then, on 3 February 301, Sima Lun forced a form of abdication upon
+Emperor Hui and claimed the imperial title for himself.
+
+Despite earlier examples of such seizure of power, it was not
+acceptable to usurp the throne from one's own kinsman, and in April
+301 Sima Ying and Sima Yih, younger brothers of Emperor Hui, joined
+forces with Sima Jiong, Area Commander at Xuchang, and came from the
+east against Luoyang. They defeated Sima Lun and forced him to commit
+suicide, they restored Emperor Hui to his imperial state, and then
+Sima Jiong used his local military power to take over the regency.
+
+Again, though it was one thing to run the empire as a family affair,
+there was great room for disagreement as to which individual should
+hold the highest position. Sima Lun's ambition had brought his
+destruction, but in May 302, the death of the last of the sons of the
+late Heir Apparent Sima Yu caused another dynastic crisis, for there
+was now no clear successor to Emperor Hui. Sima Ying hoped for the
+nomination, and he resented the dominant position taken by the more
+distant relative Sima Jiong, while Sima Yung from the west also sought
+a role. In complex intrigue during the last days of the Chinese year,
+Sima Ying and Sima Yung involved Sima Yih in their rivalry with Sima
+Jiong, but when Sima Jiong sought to destroy Sima Yih, Sima Yih turned
+the tables on him and took his place at the head of government.
+
+Sima Yih appears to have been the most competent of the princes, and
+also the most popular, but disorder at the capital had already begun
+to remove the authority of the central government. There was
+continuing rebellion in Sichuan, increasing trouble in Henan, and
+after twelve months Sima Yih was attacked from the east by Sima Ying
+and from the west by Sima Yung. In an energetic campaign, Sima Yih
+inflicted heavy defeat on Sima Ying's forces and held off the army of
+Sima Yung commanded by Zhang Fang. Then, however, he was betrayed and
+arrested in his own camp by Sima Yue, member of a cadet lineage, and
+on 19 March 304 Zhang Fang had Sima Yih burnt at the stake.
+
+On 1 May 304, with Sima Yung's approval, Sima Ying named himself as
+Heir Apparent, and removed several government offices to his own
+capital at Ye. Though Sima Yue still held the Emperor at Luoyang, he
+felt increasing resentment at the shift of power to the new regime in
+the east, and in the summer of 304 he led an army against Ye. On 9
+September, at the battle of Tangyin, his troops were utterly defeated.
+Emperor Hui was wounded by three arrows, his attendant Xi Shao, son of
+the poet Xi Kang, was killed in front of him, and he fell into the
+hands of Sima Ying.
+
+A few weeks later, however, the general Wang Jun, who had been
+appointed to command in the north by the Jia regime and was threatened
+by Sima Ying, came south against Ye with an army including a
+substantial contingent of non-Chinese auxiliaries. Taking the Emperor
+with him, Sima Ying fled in panic to Luoyang. He was, however,
+completely discredited, and power was held by Zhang Fang, who
+garrisoned the capital with the most powerful army of the region. Soon
+afterwards Zhang Fang brought the court west to Chang'an, where he
+could also supervise his nominal superior, Sima Yung.
+
+The new regime, however, was surrounded by enemies. The armies of Wang
+Jun continued their advance, and there was an additional threat from
+the Xiongnu under Liu Yuan in present-day Shanxi. From his fief
+territory of Donghai, moreover, and with the aid of his brothers, Sima
+Yue gathered forces to renew the challenge, and from the summer of
+305, in a multitude of engagements, including the siege and capture of
+Xuchang, Ye and Luoyang, he advanced towards the west. Early in 306,
+in an attempt to come to terms, Sima Yung assassinated Zhang Fang, but
+on 5 June 306 Chang'an was captured and sacked by an army of Wuhuan
+and Xianbi under the command of Wang Jun's general Ji Hong. Emperor
+Hui was returned to Luoyang, Sima Yung and Sima Ying were captured and
+killed, and Sima Yue took control of the court.
+
+Emperor Hui died on 8 January 307 - there were rumours Sima Yue had
+him poisoned - and he was succeeded by his younger brother Sima Zhi,
+twenty-fifth son of Sima Yan. The new emperor was not so incompetent
+as his brother, but he played no part in politics and left matters to
+Sima Yue. In fact, however, for all the ruthlessness with which he had
+pursued his ambitions, the regime maintained by Sima Yue was little
+more than a fragile facade, and the Yongjia reign period (307-312) was
+a period of continued anarchy. The territory north of the Yellow River
+was contested ground, there was trouble in the valley of the Huai,
+Sichuan continued in rebellion, and in 308 the bandit Wang Mi from
+Shandong captured Xuchang city.
+
+The victory of Sima Yue finished the civil war, but it had ended in
+exhaustion and despair. Though the brothers and cousins of the Sima
+clan had indeed defended their imperial position, six years of turmoil
+had produced a ferocious, meaningless record of treachery, murder and
+war. The credit of the government and the imperial family was ruined,
+the greater part of the imperial armies had been destroyed in the
+internecine fighting, and there was no authority that might restore
+the state or re-establish a position against the forces which
+threatened from the north.
+
+The peoples of the steppe and the collapse of Western Jin
+
+Since written sources for the study of early east Asia are in Chinese,
+it is not surprising that most of the history has been discussed from
+a Chinese point of view. Despite this bias, however, there is ample
+evidence to show that the traditional attitude towards non-Chinese
+neighbours of the empire was arrogant, aggressive, short-sighted and
+untrustworthy. When such people were brought under control, notably in
+the south and the west, they were oppressed and exploited by the
+Chinese government and its citizens, and on the northern frontier,
+imperial governments sought only to force the aliens into their
+tribute system. There was no concept of independence, let alone
+equality of esteem, treaties were seldom made and never kept, and
+trade was regarded as a means of control rather than as sensible
+exchange of goods for value. It was consistent policy that any large
+grouping should be divided and destroyed, but the result, often
+enough, left the frontier vulnerable to a multitude of petty,
+troublesome, war-leaders.
+
+Unattractive though it may have been, that policy was successful for
+much of the Han period. At the end of the first century A.D., however,
+the great victory of Dou Xian over the Northern Xiongnu destroyed the
+political equilibrium of the north, and the second century saw an
+enfeebled Chinese government faced with a multitude of disparate
+threats, from the rebellions of the Qiang people in the west to the
+rise of aggressive Xianbi tribes which came to replace the federations
+of the Xiongnu. In the time of Emperor Ling the Xianbi war-leader
+Tanshihuai acquired general control over his people, destroyed a major
+Chinese army, and sent raiding parties year after year against the
+frontier.
+
+By good fortune for the Chinese, the successors of Tanshihuai lacked
+his authority, and the pirate kingdom fell into disarray after his
+death in the early 180s. For a few years at the end of Han the Xianbi
+leader Kebineng restored some semblance of Tanshihuai's dominion, and
+was given title as an ally by Cao Pi, but Chinese diplomacy aided his
+enemies, and when Kebineng was murdered in 235 the new federation also
+collapsed.
+
+Elsewhere, in the northeast Cao Cao had destroyed a Wuhuan alliance
+under Tadun in 207, and he brought the Wei River valley under control
+at the battle of Huayin in 211. In 216 he settled the remnant Xiongnu
+in five divisions through present-day Shanxi and Shenxi, with a formal
+capital under Chinese supervision at Pingyang on the Fen River, and a
+hostage at Ye city for their good behaviour. Thereafter, in the region
+of Manchuria the campaigns of Guanqiu Jian in 244-245 broke the
+kingdom of Koguryo, and in the west the Qiang and Di peoples of the
+Wei valley and present-day Gansu were generally held under control by
+the contending forces of Wei and Shu-Han. When Sima Yan took his
+imperial title in 265, the non-Chinese people along the northern
+borders were disordered and divided.
+
+The general strategic position, however, was far less satisfactory
+than it had been before. At its greatest extent, the territory of
+Later Han had included all the northern loop of the Yellow River
+beyond the Ordos, and the north of present-day Shanxi and Hebei, but
+during the second century disturbances amongst the Xiongnu and the
+Qiang, and the attacks of the Xianbi, removed great areas from the
+control of the imperial government. Cao Cao and his successors could
+do no more than stabilise the situation, and as a result, under Wei
+and Jin, present-day Shanxi as far south as Taiyuan and the Fen River
+was occupied by groups of Xiongnu, while the Xianbi were established
+in the Sanggan valley and the region of present-day Huhehot. In the
+Wei valley, during the late 260s and the 270s, the Xianbi Jifu
+Shujineng and the Xiongnu Liu Meng presented some embarrassment to the
+new dynasty, and there was further trouble in 294 after Sima Lun, as
+Area Commander, sought to establish tighter control. The rebellion
+spread from the Xiongnu to the Qiang and the Di, with the Di leader Qi
+Wannian claiming an imperial title in 296, and the trouble was not
+suppressed until 299.
+
+The dangers from non-Chinese occupation of the north and northwest had
+not gone unnoticed. In 280, after the suppression of Liu Meng and the
+defeat of Wu, the censorial official Guo Qin urged that the Xiongnu
+should be expelled to the north, and in 299 the junior officer Jiang
+Tong presented his "Essay on Shifting the Western Barbarians", arguing
+in traditional terms that the Land Within the Passes was the heart of
+the nation and the Qiang and Di should be resettled elsewhere. There
+was, in fact, some attempt to drive the non-Chinese people south into
+present-day Sichuan, but in practical terms the solution was
+impossible: Chinese settlement in the Wei valley had been long in
+decline, the economic use of the country had changed from peasant
+farming to mixed agriculture and pasture, and the government was by no
+means strong enough to enforce such a mass migration. Within a year,
+moreover, the turmoil at court was bringing all into ruin.
+
+At first, the quarrels of the imperial clan had been limited to the
+territory about Luoyang and Chang'an. In 304, however, when Sima Ying
+held the Emperor hostage at Ye, the situation changed. Wang Jun's
+attack from the north was mounted with the support of Wuhuan and
+Xianbi, who acquired their first taste for the plunder and slaughter
+of a major Chinese city. As the invaders drew near, moreover, Sima
+Ying released the Xiongnu hostage prince Liu Yuan, hoping that he
+would rally his people and return to the rescue. Liu Yuan did collect
+an army, but he was too late to help Sima Ying, and instead he raised
+his own claim to imperial power. From a base in the Fen River valley,
+relying upon his lineage from the Shanyu of the Xiongnu on one side
+and from a princess of Han on the other, he declared himself first
+King then Emperor of Han.
+
+Sima Teng, younger brother of Sima Yue, had been responsible for Bing
+province, but in fear of Liu Yuan he abandoned his position and left
+it to the Inspector Liu Kun. Sima Teng sought to maintain himself at
+Ye, but in June 307 the city was sacked and Sima Teng was killed by
+the bandit Ji Sang and his associate Shi Le, a man from the Jie tribe
+of the Xiongnu. Sima Yue's forces drove the invaders back a few weeks
+later, and Ji Sang was killed, but Shi Le transferred his allegiance
+to Liu Yuan, and by 309 their armies threatened all north China.
+Though Liu Yuan died in 310, his son Liu Cong maintained the
+offensive, and the death of Sima Yue early in 311 added to the
+confusion within the government of Jin. On 13 July, after a massive
+defeat of the defending army, Shi Le stormed Luoyang, sacked the city,
+and took Sima Zhi, Emperor Huai, as a prisoner to Liu Cong's capital
+at Pingyang.
+
+With this catastrophe, the central power of Jin was ended. In the
+west, Chang'an also fell to the Xiongnu but was recaptured by loyalist
+forces with Qiang and Di auxiliaries. Sima Ye, eleven-year-old nephew
+of Sima Zhi, was proclaimed Heir Apparent, and in 313, after Sima Zhi
+had been put to death in his captivity, he ascended the throne. For a
+few more years, with local support from the west and northwest of the
+empire, and intervention by the loyal Liu Kun from Bing province, the
+court at Chang'an maintained a tenuous existence, but the city was
+steadily encircled by the forces of Liu Cong, and the defenders were
+starved into submission at the end of 316. Sima Ye was also taken into
+exile, and he was killed a few months later.
+
+Elsewhere in the empire, the waning power of Jin was restricted to
+Bing and You provinces in the north, and Jianye with the lands south
+of the Yangzi, former territory of Wu. Sima Rui, Prince of Langye, a
+great-grandson of Sima Yi, had held command at Jianye since 307. He
+was attacked by Shi Le in 312, but the invaders, hampered by three
+months of rain, could make no headway south of the Huai. So Jianye
+became a place of refuge from the ruin of the north, and Sima Rui took
+title as King of Jin in 317. The following year, after the death of
+Sima Ye, he proclaimed himself Emperor, and the dynasty, now known as
+Eastern Jin, was thus revived.
+
+In Bing province, from his base at Jinyang by present-day Taiyuan, Liu
+Kun obtained the aid of the Tuoba group of the Xianbi, traditional
+enemies of the Xiongnu, who occupied the northern part of present-day
+Shanxi and the region of Huhehot. His own position, however, was weak.
+In 310 he was compelled to send his son as hostage in order to obtain
+troops from his allies, and he depended increasingly upon his
+relationship with the chieftain Tuoba Yilu. In 314 the two leaders
+mounted a sortie to relieve Chang'an, and Tuoba Yilu was awarded the
+title King of Dai. Two years later, however, as Shi Le extended his
+power across the North China plain, Tuoba Yilu was assassinated and
+his clansmen rejected the alliance with Jin. Liu Kun fled northeast to
+the Duan group of the Xianbi, but was killed there in 318.
+
+In somewhat similar fashion, Wang Jun in You province maintained an
+alliance with the Murong group of the Xianbi, who had risen to power
+in Manchuria after the defeat of Koguryo by Guanqiu Jian in the middle
+of the third century, and consolidated their position through marriage
+alliance with the Duan and a successfully aggressive policy towards
+their neighbours the Puyo and the Yuwen Xianbi. Disconcertingly,
+however, the government of Murong Hui, who had held authority among
+his people since 285 and had created a orderly government with numbers
+of Chinese advisers and officials, was more attractive to refugees
+from central China than the regime of Wang Jun. Wang Jun had sought to
+act as patron and overlord to Murong Hui, but he was deserted by his
+own people and his allies, and he was taken and killed by Shi Le in
+314. By contrast, in 317, Murong Hui established contact with the Jin
+court at Jianye, and was awarded the title of a general and the rank
+of a duke.
+
+This last sad failure exemplifies the critical weakness of the empire:
+that Chinese people should prefer an alien frontier state to the
+protection of their own administrator. The destruction of the capitals
+and the ruin of Western Jin was not just a matter of powerful
+barbarian forces pressing against the empire it came essentially from
+the irresponsible feuding that had bedevilled the imperial family
+since the death of Sima Yan more than twenty years before. Where
+people had looked for stability and competence, their rulers had shown
+them selfishness, cruelty, and futility. Such a succession of
+disorders would cut to the heart of any government, and as they were
+robbed of their faith and their confidence the former subjects of the
+empire turned away from those who had betrayed them.
+
+Conclusion: Patterns of the Third Century
+
+Looking overall at the period from the collapse of Later Han at the
+end of the second century AD to the ruin of Western Jin at the
+beginning of the fourth century, one may observe two major
+developments of lasting importance for the history of China: the first
+is the development of the Chinese position south of the Yangzi the
+second is the changing economic and social structure of the Chinese
+world, and the devastating effect which this had upon the basic
+loyalties which had supported the traditional imperial state.
+
+The impetus which the state of Wu gave to Chinese control over the
+lands of the south has already been discussed. The situation at the
+end of the second century permitted the initial establishment of a
+local regime independent of the north, and then the energy of the Sun
+family and their associates developed the resources of the region by
+colonization into areas formerly untouched by the government of Han.
+Though the rulers of Wu could not in the end survive against the
+united power of the north and the west, it was through their
+achievement that a base was found for the survival of a truncated
+Chinese state after the fall of Western Jin.
+
+On the second matter, while it is easy to criticise the political
+weakness of Wei and the appalling instability of Western Jin, we
+should recognise the degree to which the old regime of Han had been
+destroyed in the first years of civil war. The warlords who struggled
+for power at the beginning of the third century held their forces
+together by loose bonds of personal loyalty, and even as the three new
+regional states developed some formal political structures, the true
+network of power was based upon family and local self-interest. In
+such circumstances, one should rather admire the achievement of Cao
+Cao, his rivals and successors, in creating some workable institutions
+from a situation of internecine chaos, than criticise them for the
+weaknesses of their constructions.
+
+In the end, however, as the state of Western Jin fell into ruin,
+anecdotes of two men, the aesthete Wang Yan and the statesman Zhang
+Hua, could be presented as examples of the moral weakness that lay at
+the heart of the state.
+
+Wang Yan was one of the most brilliant men of his time, skilled in the
+sophistries of pure conversation, a scholar both of diplomacy and of
+xuanxue. At Luoyang in 311 he was captured by Shi Le, who asked him
+about the failure of Jin. Wang Yan's answers were clear and elegant,
+and Shi Le spoke with him for several days. But Wang Yan also sought
+to explain how he himself had held aloof from such meanness, and those
+errors and failures were no concern of his. Shi Le replied, "Your fame
+extends over all the four seas, and since your youth you have occupied
+high positions.... How can you claim to have taken no part in the
+affairs of the world? Indeed it is your fault that the empire is
+defeated and destroyed!" And so he killed him.
+
+In similar fashion, Zhang Hua wrote an essay of warning about consort
+families, but he later served the government of the Empress Jia. In
+300 he was arrested and sentenced to death by Sima Lun. On the eve of
+execution he sought to justify himself to one of his captors, but he
+was asked to explain why he did not protest, even to death, at the
+deposition of the Heir Apparent Sima Yu. Zhang Hua replied that he had
+spoken against the project in open council. "And when your objections
+were ignored," came the reply, "why did you not resign your office?"
+Zhang Hua could make no answer.
+
+Even if one considers the nature of their rulers, from the cruelty of
+the Empress Jia to the murderous rivalries of the Eight Princes, the
+conduct of these officials and their colleagues fell far short of the
+model displayed by the proscribed partisans one hundred years earlier,
+who were prepared to die for the principles they believed in, and they
+match poorly with the personal loyalty that other men had given their
+chieftains in the years of the Three Kingdoms. The problem at the
+heart of Western Jin, however, was more than the limited
+responsibility shown by individuals at the court, for they represented
+the culmination of a process of political withdrawal, a separation
+between the ruler and the chiefs of his subjects, which had been
+developing since the time of Han and which was displayed very clearly
+when the illusion of unity was restored by Jin.
+
+In writing this paper, I have largely avoided such terms as
+"feudalism" and "aristocracy", for I believe that such general
+descriptions, unless carefully defined, carry too many implications
+and allow too much room for misunderstanding. There has been debate in
+recent years on the nature of Chinese society and politics in the
+period between the fall of Han and rise of Sui and Tang, and two
+particular problems have appeared in the course of that discussion:
+there is much uncertainty and disagreement about terminology and there
+is a question whether the four centuries of this period of division
+can be properly treated as a whole. I can here deal only briefly with
+this complex matter, but I suggest that in the time of Wei and Western
+Jin the political and intellectual structure of imperial China was
+faced with a crisis which arose from an economic and social situation
+that was already developing during Han. There were here two separate,
+contradictory factors in play. Firstly, from the time of Later Han and
+increasingly during the disturbances which accompanied its fall, by a
+process of commendation well recognised in the history of Western
+feudalism, powerful local families gathered about them increasing
+numbers of tenants and clients who sought the protection of their
+leadership, and who in turn gave support to their power. Secondly,
+however, because the imperial state continued to operate on the
+philosophy of a direct relationship between the ruler and each of his
+subjects, that private system of commendation was not extended into a
+public hierarchy of feudalism. The very fact that the emperor claimed
+ultimate authority over all the land, while every subject owed a
+general duty of service and taxation, prevented the development of a
+system which relied upon individual and hereditary contracts of
+fiefdom.
+
+From the time of Later Han, the decline of central authority brought a
+fragmentation of the political and economic structure of the empire,
+and the power of the great local families came from their own
+resources and organisation, not from any dispensation of the imperial
+authority. It is true that the governments of Han, Wei and Jin awarded
+titles of nobility such as king or prince, duke and marquis, but these
+reflected political relationships and favour, and did not create
+political power. By contrast, the families which held authority in the
+land had no such relationship with their ruler as medieval feudatories
+in the West: there was no system of sub-infeudation, no contract to
+exchange land for service, no legal argument about contending rights
+and obligations, and no alternative authority to which a subject might
+appeal. In this respect, the political and social status of those
+leading families may best be compared, not to that of the great
+feudatories of medieval times, but to the English gentry or the French
+noblesse of early modern Europe; and even then we must observe that
+there were no privileges granted by the throne of China like those
+held by the noblesse in France, as, for example, exemption from
+taxation by the taille.
+
+A number of terms have been used to describe these families, whether
+they were "aristocratic" or "lelite", an "oligarchy" or a "nobility".
+One difficulty in analysis arises from the bias of the official
+Chinese histories, which emphasise the holding of some official
+position, rank or title as a sign of social status, and pay chief
+attention to those individuals or kinship groups which acquire such
+recognition. Naturally enough, given the records available, modern
+scholarship has concentrated on families such as the Cui and the Xie,
+who often held position at court and whose lineage may be traced
+through the whole period of division. Nevertheless, though these
+"super-lelite" clans are of interest in their own right, they are to
+some extent a distraction from the broader group which I prefer to
+describe as "gentry". At the upper levels of this "gentry" one may
+identify the "nobility" who received titles from the ruler, and an
+"aristocracy" of those few powerful clans which wielded the greatest
+influence at provincial or national level. Across the empire as a
+whole, however, the "gentry" were a broader class, including all those
+lineage groups, down to village level, which held authority through
+their control and influence over their lands, tenants, serfs and
+retainers.
+
+At a local level, power was based upon concepts which could be
+identified as feudal in the West. As the gentry families enlarged
+their position, however, traditional Chinese theories of government
+provided no means to negotiate an effective link with this
+increasingly important group of leadership within the whole community,
+for it was quite inappropriate that the sovereign should enter into a
+feudal contract, with reciprocal rights and duties. The gentry of
+China were readily identified among the people but, unless they
+happened to hold official position, they had no formal and particular
+connection with the emperor and he, for his part, had no machinery to
+interfere with the patron-client relationship from which they drew
+their private authority.
+
+As a result, without rights or duties on either side, the imperial
+regime was faced with a simple withdrawal of interest and support by
+its most powerful subjects. One faction or another might struggle for
+power at court, and dynasty succeed dynasty through intrigue and
+abdication, but there was no obligation upon the gentry of any level
+to concern themselves with the matter, and no reason but self-interest
+when they chose to do so.
+
+For the dynasty of Western Jin, in particular, the withdrawal of
+commitment by leading clans and individuals brought a crippling loss
+of confidence and authority, for the weakening of the bonds of loyalty
+and responsibility limited the moral force of the government, denied
+it access to a high proportion of the economic resources that it
+theoretically controlled, and rendered the whole imperial regime
+vulnerable and unstable. At the same time, however, the changes of
+society and politics brought forward a new and exciting debate on the
+proper relationship of the individual with the family, with the state,
+with the community, and with the world at large.
+
