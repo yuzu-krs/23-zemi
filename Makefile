@@ -24,4 +24,3 @@ $(TARGET):$(OBJ)
 #クリーンアップルール:中間ファイルの削除 make clean
 clean:
 	rm -f $(OBJ) $(TARGET)
-

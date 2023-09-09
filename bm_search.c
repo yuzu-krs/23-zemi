@@ -2,11 +2,11 @@
 #include <stdlib.h>
 #include <string.h>
 
-#define uchar unsigned char
 #define max(a, b) ((a) > (b) ? a : b)
 // bm_search(str, strlen(str), bm, strlen(bm)));
 /*長さtext_lenの文字列textから長さpat_lenの文字列patternを探索する（BM法)*/
-int bm_search(uchar *text, int text_len, uchar *pattern, int pat_len) {
+int bm_search(unsigned char *text, int text_len, unsigned char *pattern,
+              int pat_len) {
     /*テキストとパターンの不一致が見つかったときにどれだけずらすかを示す表*/
     int skip[256];
     /*変数iは注目しているテキストの位置，変数jは注目しているパターンの位置を表すポインタ*/

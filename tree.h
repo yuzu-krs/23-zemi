@@ -20,6 +20,9 @@ void freeTree(TreeNode* root);
 // 二分探索木の内容を表示(中間順トラバーサル)
 void printTree(TreeNode* root);
 
+// 二分探索木の内容を表示する関数（中間順トラバーサル）
+void bmSearch(TreeNode* root, char* pattern);
+
 // 単語数を数える(ノードの数を数える)
 int countWords(TreeNode* root);
 

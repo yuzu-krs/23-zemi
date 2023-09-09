@@ -4,6 +4,8 @@
 #include <stdlib.h>
 #include <string.h>
 
+#include "bm_search.h"
+
 // 二分探索木のノードを表す構造体
 typedef struct TreeNode {
     char* word;            // 英単語を格納する文字列
@@ -120,6 +122,35 @@ void printTree(TreeNode* root) {
     printTree(root->right);
 }
 
+// 二分探索木の内容を表示する関数（中間順トラバーサル）
+void bmSearch(TreeNode* root, char* pattern) {
+    // 現在のノードがNULLであるかどうかを確認
+    // もし現在のノードがNULLならばこれ以上表示するノードは存在しないため，関数を終了する．
+    if (root == NULL) {
+        return;
+    }
+
+    // rootのノードの左の子ノードを再帰的に表示し,これにより，左の部分木のすべてのノードが表示される．
+    bmSearch(root->left, pattern);
+
+    if (bm_search((unsigned char*)root->word, strlen(root->word),
+                  (unsigned char*)pattern, strlen(pattern)) > -1) {
+        // 現在のノードの情報を表示する．
+        // 現在のノードの単語とそれに対応する行番号を表示します．
+        printf("%-20s :", root->word);
+        int i = 0;
+
+        // 現在のrootノードが持つlineNumber配列の要素を走査して出現番号を表示する．行番号の配列は0で終了するため，0に達するまでループを実行する．
+        while (root->lineNumber[i] != 0) {
+            printf(" %2d ", root->lineNumber[i]);
+            i++;
+        }
+        puts("");
+    }
+    // rootノードの右の子ノードを再帰的に表示します．これにより，右の部分木のすべての表示がされる．
+    bmSearch(root->right, pattern);
+}
+
 // 単語数を数える
 int countWords(TreeNode* root) {
     // rootノードがNULL(部分木が存在しない)場合の処理．
@@ -139,7 +170,7 @@ void searchWord(TreeNode* root, const char* word) {
     if (root == NULL) {
         printf("\"%s\" は存在しません\n\n", word);
         puts("-------------------------------");
-        exit(1);
+        return;
     }
     int cmp = strcmp(word, root->word);
     if (cmp < 0) {
@@ -225,4 +256,3 @@ int calcDepth(TreeNode* root) {
         return 1 + (leftDepth > rightDepth ? leftDepth : rightDepth);
     }
 }
-

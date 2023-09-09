@@ -14,19 +14,30 @@ void defineWord(TreeNode** root, FILE* inputFile, FILE* stopWordFile) {
     int c;
     int i = 0;
     int lineNumber = 1;
+    bool inAlphabet = false;
     while ((c = fgetc(inputFile)) != EOF) {
+        if (isAlphabet(c) && i != 0) {
+            inAlphabet = true;
+        } else if (i == 0) {
+            inAlphabet = false;
+        }
+
         // 数字以外+period+数字以外ならば無視
         if (isPeriod(inputWord[i - 1]) && !(isNum(c)) && i > 1) {
             inputWord[i - 1] = '\0';
-            insertWord(root, inputWord, lineNumber);
+            if (inAlphabet) {
+                insertWord(root, inputWord, lineNumber);
+            }
             i = 0;
         }
 
         // アルファベット+apostrophe+アルファベット
         if (isApostrophe(inputWord[i - 1]) && !(isAlphabet(c)) && i > 1) {
             inputWord[i - 1] = '\0';
+            if (inAlphabet) {
+                insertWord(root, inputWord, lineNumber);
+            }
 
-            insertWord(root, inputWord, lineNumber);
             i = 0;
         }
 
@@ -39,8 +50,10 @@ void defineWord(TreeNode** root, FILE* inputFile, FILE* stopWordFile) {
         } else if ((i != 0) && !(isPeriod(inputWord[i - 1])) &&
                    !(isApostrophe(inputWord[i - 1]))) {
             inputWord[i] = '\0';
+            if (inAlphabet) {
+                insertWord(root, inputWord, lineNumber);
+            }
 
-            insertWord(root, inputWord, lineNumber);
             i = 0;
 
         } else {
@@ -55,7 +68,9 @@ void defineWord(TreeNode** root, FILE* inputFile, FILE* stopWordFile) {
     // ファイルの末尾に単語があった場合
     if (i != 0) {
         inputWord[i] = '\0';
-        insertWord(root, inputWord, lineNumber);
+        if (inAlphabet) {
+            insertWord(root, inputWord, lineNumber);
+        }
     }
 
     i = 0;
